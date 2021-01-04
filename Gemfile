@@ -1,6 +1,13 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
+# GH Pages
+gem 'jekyll', '~> 3.8.5'
+gem 'coderay', '~> 1.1.0'
+
+group :jekyll_plugins do
+  gem 'jekyll-asciidoc', '~> 2.1.1'
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
