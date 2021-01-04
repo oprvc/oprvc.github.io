@@ -19,6 +19,7 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - name: Push the site to the static-site branch
+      if: ${{ github.event_name == 'push' }}
       run: |
         sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
         cd ${{ github.workspace }}/_site
