@@ -3,6 +3,8 @@ name: Jekyll site CI
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
@@ -16,3 +18,14 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - name: Push the site to the static-site branch
+      run: |
+        sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
+        cd ${{ github.workspace }}/_site
+        git init -b static-site
+        git config user.name ${{ github.actor }}
+        git config user.email ${{ github.actor }}@users.noreply.github.com
+        git remote add origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+        git add .
+        git commit -m "Deploy site built from commit ${{ github.sha }}"
+        git push -f -u origin static-site
