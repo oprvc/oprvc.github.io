@@ -11,13 +11,12 @@ lang:               en
 
 # Site subpath, e.g. /blog
 baseurl:            ""
-destination:        docs/
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                ""
+url:                "https://opr.vc"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:               
