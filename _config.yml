@@ -11,6 +11,7 @@ lang:               en
 
 # Site subpath, e.g. /blog
 baseurl:            ""
+destination:        docs/
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
