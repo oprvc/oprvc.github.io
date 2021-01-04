@@ -1,38 +1,39 @@
 {
-  "name": "Docs",
-  "version": "1.0.0",
-  "description": "Docs Jekyll theme.",
-  "main": "index.js",
+  "name": "jekyll-action-ts",
+  "version": "2.3.4",
+  "private": true,
+  "description": "A GitHub Action to build and publish Jekyll sites to GitHub Pages without Docker",
+  "main": "src/main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "copy": "ncp node_modules/uikit/src/scss/ _sass/uikit/ && ncp node_modules/system-font-css/ _sass/system-font-css/",
-    "lint": "jshint assets/js/custom.js",
-    "uglify": "uglifyjs node_modules/uikit/dist/js/uikit.js node_modules/uikit/dist/js/uikit-icons.js node_modules/simple-jekyll-search/dest/simple-jekyll-search.js assets/js/custom.js -m -c -o assets/js/main.js",
-    "concat": "uglifyjs node_modules/uikit/dist/js/uikit.js node_modules/uikit/dist/js/uikit-icons.js node_modules/simple-jekyll-search/dest/simple-jekyll-search.js assets/js/custom.js -b -o assets/js/main.js",
-    "dev": "npm run lint && npm run concat",
-    "build": "npm run lint && npm run uglify",
-    "watch": "watch 'npm run dev' assets/js/",
-    "postinstall": "npm run copy && npm run concat"
+    "build": "ncc build ./src/main.ts",
+    "all": "prettier --write **/*.ts && eslint src/**/*.ts && npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/limjh16/jekyll-action-ts.git"
   },
-  "author": "",
+  "keywords": [
+    "actions",
+    "node",
+    "setup"
+  ],
+  "author": "limjh16",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/"
-  },
-  "homepage": "https://github.com/",
   "dependencies": {
-    "simple-jekyll-search": "^1.7.2",
-    "system-font-css": "^2.0.1",
-    "uikit": "^3.0.3"
+    "@actions/cache": "^1.0.4",
+    "@actions/core": "^1.2.6",
+    "@actions/exec": "^1.0.4",
+    "@actions/glob": "^0.1.1",
+    "@types/prettier": "^2.1.5",
+    "prettier": "^2.1.2"
   },
   "devDependencies": {
-    "jshint": "^2.10.2",
-    "ncp": "latest",
-    "uglify-js": "^3.4.10",
-    "watch": "^1.0.2"
+    "@types/node": "^12.19.4",
+    "@typescript-eslint/parser": "^3.10.1",
+    "@zeit/ncc": "^0.22.3",
+    "eslint": "^7.13.0",
+    "eslint-plugin-github": "^4.1.1",
+    "js-yaml": "^3.14.0",
+    "typescript": "^3.9.7"
   }
 }
