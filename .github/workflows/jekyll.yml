@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      with:
-        target_branch: 'static-site'
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
