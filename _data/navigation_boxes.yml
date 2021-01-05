@@ -5,9 +5,9 @@
   icon: database
   doc: installation
 
-- title: Theme Features
+- title: report
   desc: Lean about all the theme options, features and how to use them
-  icon: settings
+  icon: mail
   doc: hero
 
 - title: contribute
