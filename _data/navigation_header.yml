@@ -7,17 +7,17 @@ left:
   - title: Docs2
     url: /docs/installation/
 
-  - title: Blog
-    url: /blog/
-
-  - title: Changelogs
-    dropdown:
-
-      - title: Timeline Style
-        url: /changelog-timeline/
-
-      - title: Post Style
-        url: /changelog-posts/
+#  - title: Blog
+#    url: /blog/
+#
+#  - title: Changelogs
+#    dropdown:
+#
+#      - title: Timeline Style
+#        url: /changelog-timeline/
+#
+#      - title: Post Style
+#        url: /changelog-posts/
 
 
 # Navbar right menu navigation links
