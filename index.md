@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: crowd-driven privacy
+    title: open source privacy
     subtitle: Finden Sie Textbausteine für Ihre Datenschutzerklärung inkl. technischer und rechtlicher Hintergrundinformationen.
     image: oprvc_logo.png
     search: true
