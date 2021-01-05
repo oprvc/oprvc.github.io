@@ -1,7 +1,6 @@
 # jekyll-action
 A GitHub Action to build and publish Jekyll sites to GitHub Pages
-
-Out-of-the-box Jekyll with GitHub Pages allows you to leverage a limited, white-listed, set of gems. Complex sites requiring custom ones or non white-listed ones (AsciiDoc for intstance) used to require a continuous integration build in order to pre-process the site.
+a
 
 Remember that GitHub is serving your built static site, not it's sources. So when configuring GitHub Pages in your project settings, use **gh-pages branch** as a Source for GitHub Pages. If you are setting up *username*.github.io repository, you'll have to use **master branch**, so sources can be located in another orphaned branch in the repo (which you can safely mark as default after the first publication).
 In addition to that default behaviour, you can configure the branch this plugin pushes into with the `target_branch`-option. Keep in mind to set the source branch accordingly at the GitHub Pages Settings page.
