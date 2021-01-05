@@ -1,6 +1,0 @@
-= Page Title
-
-[#section-id.section-role]
-== Section Title
-
-content

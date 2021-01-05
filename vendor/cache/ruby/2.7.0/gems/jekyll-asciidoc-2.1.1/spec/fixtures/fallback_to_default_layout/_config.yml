@@ -1,5 +1,0 @@
-gems:
-  - jekyll-asciidoc
-collections:
-  blueprints:
-    output: true

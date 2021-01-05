@@ -1,4 +1,0 @@
-= Standalone Page B
-:page-layout: false
-
-Lorem ipsum.

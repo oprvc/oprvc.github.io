@@ -1,3 +1,0 @@
-= No Liquid
-
-{{ page.title }}

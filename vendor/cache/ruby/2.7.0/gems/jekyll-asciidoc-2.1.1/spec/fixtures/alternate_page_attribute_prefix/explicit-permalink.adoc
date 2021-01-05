@@ -1,4 +1,0 @@
-= Page With Explicit Permalink
-:jekyll-permalink: /permalink/
-
-Lorem ipsum.

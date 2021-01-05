@@ -1,5 +1,0 @@
-= Home Page
-:imagesdir: images
-:!page-layout:
-
-image::sunset.jpg[Sunset,408,230]

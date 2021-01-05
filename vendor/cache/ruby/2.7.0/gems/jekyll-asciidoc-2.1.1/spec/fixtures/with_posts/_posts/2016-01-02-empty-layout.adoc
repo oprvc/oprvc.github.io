@@ -1,4 +1,0 @@
-= Empty Layout
-:page-layout:
-
-Lorem ipsum.

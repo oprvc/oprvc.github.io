@@ -1,3 +1,0 @@
-= Docs Page
-
-Content of docs page.

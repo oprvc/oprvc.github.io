@@ -1,3 +1,0 @@
-= General Page
-
-Content of general page.

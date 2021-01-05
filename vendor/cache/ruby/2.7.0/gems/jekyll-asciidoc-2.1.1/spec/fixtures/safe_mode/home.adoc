@@ -1,5 +1,0 @@
-= Home Page
-:page-layout: home
-:imagesdir: images
-
-Lorem ipsum.

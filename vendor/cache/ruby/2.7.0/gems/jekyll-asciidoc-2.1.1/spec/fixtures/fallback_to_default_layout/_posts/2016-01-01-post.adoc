@@ -1,4 +1,0 @@
-= Post
-Henry Jekyll
-
-Lorem ipsum.

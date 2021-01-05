@@ -1,4 +1,0 @@
-= Custom Layout
-:page-layout: custom
-
-Lorem ipsum.

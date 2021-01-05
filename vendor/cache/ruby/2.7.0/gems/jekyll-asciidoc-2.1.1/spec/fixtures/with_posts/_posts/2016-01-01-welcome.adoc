@@ -1,4 +1,0 @@
-= Welcome, Visitor!
-Henry Jekyll
-
-Welcome to my Jekyll-powered blog!

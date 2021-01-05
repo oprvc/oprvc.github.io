@@ -1,4 +1,0 @@
-:page-permalink: /bare/
-
-Just content.
-Lorem ipsum.

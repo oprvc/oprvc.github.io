@@ -1,4 +1,0 @@
----
-title: Front Matter Only
-layout: page
----

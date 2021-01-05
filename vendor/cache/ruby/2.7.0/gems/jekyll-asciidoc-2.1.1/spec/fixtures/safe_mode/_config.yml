@@ -1,4 +1,0 @@
-gems: &gems
-  - jekyll-asciidoc
-safe: true
-whitelist: *gems

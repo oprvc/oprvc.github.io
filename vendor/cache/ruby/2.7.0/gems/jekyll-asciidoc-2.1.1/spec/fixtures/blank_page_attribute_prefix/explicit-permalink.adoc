@@ -1,4 +1,0 @@
-= Page With Explicit Permalink
-:permalink: /permalink/
-
-Lorem ipsum.

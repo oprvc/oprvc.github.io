@@ -1,4 +1,0 @@
-= Page Title
-:page-attribute-with-empty-value:
-
-Lorem ipsum.

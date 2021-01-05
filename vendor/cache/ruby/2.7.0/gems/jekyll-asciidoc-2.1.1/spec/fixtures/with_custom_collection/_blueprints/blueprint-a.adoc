@@ -1,4 +1,0 @@
-= First Blueprint
-:page-foo: bar
-
-Lorem ipsum.
