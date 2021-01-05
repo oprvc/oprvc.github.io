@@ -1,16 +1,16 @@
 # English (default)
 
 en:
-  previous:                   "Previous"
-  next:                       "Next"
+  previous:                   "Zurück"
+  next:                       "Weiter"
   related_docs:               "Related Docs"
   related_posts:              "Related Posts"
   read_more:                  "Read more"
   written_by:                 "Written by"
   share_twitter:              "Share on Twitter"
   share_facebook:             "Share on Facebook"
-  search_placeholder:         "Search for answers"
-  search_no_results:          "No results found"
+  search_placeholder:         "Service oder Hersteller"
+  search_no_results:          "Kein Ergebnis"
   mobile_nav_docs:            "privacy.base"
   mobile_nav_site:            ""
   contact_name:               "Name"
