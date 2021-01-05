@@ -5,9 +5,9 @@
   icon: database
   doc: installation
 
-- title: report
+- title: datenschutzerklärung
   desc: Lean about all the theme options, features and how to use them
-  icon: mail
+  icon: file-text
   doc: hero
 
 - title: contribute
