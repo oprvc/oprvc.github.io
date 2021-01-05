@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: crowd-driven privacy
-    subtitle: Finden Sie Textbausteine für Ihre Datenschutzerklärungen und technische und rechtliche Hintergrundinformationen.
+    subtitle: Finden Sie Textbausteine für Ihre Datenschutzerklärung inkl. technischer und rechtlicher Hintergrundinformationen.
     image: oprvc_logo.png
     search: true
 ---
