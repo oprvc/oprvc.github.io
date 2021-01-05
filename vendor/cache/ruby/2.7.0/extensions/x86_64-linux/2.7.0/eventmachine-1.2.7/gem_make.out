@@ -1,0 +1,16 @@
+current directory: /home/bhom/Desktop/asd/themeforest-Dg5D6dei-docs-responsive-documentation-manual-jekyll-theme/Docs_Package_v2.0.1/jekyll-theme-docs/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210105-100283-an3rif.rb extconf.rb
+creating Makefile
+
+current directory: /home/bhom/Desktop/asd/themeforest-Dg5D6dei-docs-responsive-documentation-manual-jekyll-theme/Docs_Package_v2.0.1/jekyll-theme-docs/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/bhom/Desktop/asd/themeforest-Dg5D6dei-docs-responsive-documentation-manual-jekyll-theme/Docs_Package_v2.0.1/jekyll-theme-docs/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/bhom/Desktop/asd/themeforest-Dg5D6dei-docs-responsive-documentation-manual-jekyll-theme/Docs_Package_v2.0.1/jekyll-theme-docs/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210105-100283-1uf6i39

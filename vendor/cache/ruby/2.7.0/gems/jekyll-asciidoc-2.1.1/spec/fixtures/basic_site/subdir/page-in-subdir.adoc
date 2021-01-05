@@ -1,0 +1,7 @@
+= Page In Subdir
+
+Lorem ipsum.
+
+* docfile={docfile}
+* docdir={docdir}
+* docname={docname}
