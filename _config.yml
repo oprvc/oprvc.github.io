@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title: privacy.base
-description: opr.vc - crowd-driven privacy
+title: opr.vc - open privacy
+description: Datenschutz - crowd-driven privacy
 lang: en
 
 # Site subpath, e.g. /blog
