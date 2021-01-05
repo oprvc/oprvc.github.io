@@ -1,6 +1,9 @@
 # Navbar left menu navigation links
 
 left:
+#  - title: Home
+#    url: /
+
   - title: Docs2
     url: /docs/installation/
 
