@@ -10,7 +10,7 @@
   icon: settings
   doc: hero
 
-- title: Customization
+- title: contribute
   desc: Get help or tailor the theme to your specific requirements
-  icon: code
+  icon: github
   doc: customize
