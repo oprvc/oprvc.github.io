@@ -19,7 +19,7 @@ permalink: /:title/
 url: ""
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:
+logo: oprvc_logo.png
 
 navbar:
   sticky: true
