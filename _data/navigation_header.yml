@@ -4,7 +4,7 @@ left:
 #  - title: Home
 #    url: /
 
-  - title: Docs2
+  - title: Docs
     url: /docs/installation/
 
 #  - title: Blog
@@ -24,9 +24,9 @@ left:
 
 right:
 
-  - title: Changelog
-    url: /changelog-timeline/
-    button: primary-outline
+  # - title: Changelog
+  #   url: /changelog-timeline/
+  #   button: primary-outline
 
   - title: Contact
     url: /contact/
