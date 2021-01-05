@@ -2,7 +2,7 @@
 
 - title: privacy.base
   desc: Get started fast with installation and theme setup instructions
-  icon: cog
+  icon: database
   doc: installation
 
 - title: Theme Features
