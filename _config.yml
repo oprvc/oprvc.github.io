@@ -83,7 +83,7 @@ share:
 
 # Default footer image settings
 footer:
-  copyright: Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+  copyright:
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
