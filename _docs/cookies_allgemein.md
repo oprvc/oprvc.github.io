@@ -1,5 +1,5 @@
 ---
-title: Cookies Allgemein
+title: Cookies
 subtitle: Allgemeine Informationen über Cookies
 tags: [cookies]
 ---

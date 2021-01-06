@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Informationen
+title: Hosting
 subtitle: Allgemeine Informationen zum Hosting inkl. Muster für deine Datenschutzerklärung
 tags: [hosting]
 ---
