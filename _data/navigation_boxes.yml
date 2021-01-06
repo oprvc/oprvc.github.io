@@ -1,6 +1,6 @@
 # Boxes include navigation
 
-- title: privacy.base
+- title: privacy.docs
   desc: Get started fast with installation and theme setup instructions
   icon: database
   doc: installation
