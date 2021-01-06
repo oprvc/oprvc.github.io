@@ -17,16 +17,17 @@
 
     {% include offcanvas.html %}
 
-    {% if page.layout == 'doc' %}
+    {% if page.layout != 'doc' %}
         {% include footer.html %}
     {% endif %}
 
     {% if page.layout == 'doc' %}
         {% include hook-pre-closing-body-doc.html %}
+        {% include footer.html %}
     {% endif %}
 
     {% include hook-pre-closing-body.html %}
-
+    {% include footer.html %}
     </body>
 
 </html>
