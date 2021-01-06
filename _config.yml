@@ -121,3 +121,6 @@ defaults:
       type: docs
     values:
       layout: doc
+
+plugins:  
+  - jekyll-minifier
