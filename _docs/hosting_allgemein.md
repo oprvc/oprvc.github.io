@@ -1,6 +1,6 @@
 ---
-title: Hosting
-subtitle: Allgemeine Angaben zum Hosting einer Website
+title: Allgemeine Informationen zum Hosting
+subtitle: Allgemeine Informationen zum Hosting einer Website
 tags: [hosting]
 ---
 
