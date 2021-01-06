@@ -3,14 +3,14 @@
 - title: privacy.docs
   desc: Rechtliche und technische Informationen über Applikationen, Plugins und Services
   icon: folder
-  doc: installation
+  doc: allgemein/dse_einleitung
 
 - title: Datenschutzerklärung
   desc: Finde frei nutzbare Textbausteine für deine Datenschutzerklärung
   icon: file-edit
-  doc: hero
+  doc: allgemein/dse_einleitung
 
 - title: Mitmachen
   desc: Entwickler, Jurist, Experte, Nutzer? Bringe dich ein und hilf uns besser zu werden
   icon: github
-  url: https://test.de
+  url: https://github.com/oprvc/oprvc.github.io
