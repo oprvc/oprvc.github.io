@@ -4,10 +4,16 @@ subtitle: Allgemeine Angaben zum Hosting einer Website
 tags: [hosting]
 ---
 
+### Technische Hinweise
+Neben den Server-Logfiles können auch von der verwendeten Applikation und deren Plugins personenbezogene Daten verarbeitet werden. Darunter fallen u.a. die Protokollierung fehlerhafter Anmeldeversuche, oder Zugriffe auf nicht existierende Seiten (404). Dies sollte überprüft und entsprechend ergänzt werden.
+
+Im Falle eine Speicherung, sollte ebenfalls angegeben werden, wie lange diese erfolgt und ob und ab wann eine Anonymisierung der erhobenen Daten stattfindet.
+
+### Rechtliche Hinweise
+Grundsätzlich ist ein Auftragsverarbeitungsvertrag mit dem Hoster abzuschließen. Das bayerische Landesamt für Datenschutzaufsicht hat für das Hosting rein statischer Websites eine Ausnahme gemacht. Für den Fall, dass die Webseite der Selbstdarstellung dient, z.B. von Vereinen oder Kleinunternehmen, keine personenbezogenen Daten an den Betreiber fließen und kein Tracking stattfindet, liegt keine Auftragsverarbeitung vor. Weiter heißt es: „Die Tatsache, dass auch beim Hosting von statischen Webseiten zwangsläufig IP-Adressen, d.h. personenbezogene Daten, verarbeitet werden müssen, führt nicht zur Annahme einer Auftragsverarbeitung. Das wäre nicht sachgerecht. Die (kurzfristige) IP-Adressenspeicherung ist vielmehr noch der TK-Zugangsvermittlung des Website-Hosters nach dem TKG zuzurechnen und dient in erster Linie Sicherheitszwecken des Hosters.“ (https://www.lda.bayern.de/media/veroeffentlichungen/FAQ_Hosting_keine_Auftragsverarbeitung.pdf) Es sollte deshalb überprüft werden, ob der Hoster Tracking und Auswertungstools zur Verfügung stellt und ob und wie lange Logfiles aufbewahrt werden.
+
 ### Muster Datenschutzerklärung
-
 #### Hosting
-
 Sofern Sie sich als Besucher weder registrieren noch einloggen, erheben wir in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 IP-Adresse, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
