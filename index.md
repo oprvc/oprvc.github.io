@@ -19,7 +19,7 @@ hero:
 
 {% include faqs.html multiple="true" title="Häufig gestellte Fragen" category="frontpage" subtitle="Antworten auf deine Fragen" %}
 
-{% include team.html authors="sebastian" title="Wer steckt dahinter?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
+{% include team.html authors="sebastian" title="Wer steckt hinter opr.vc?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
 
 {% include cta.html title="Wir sind für dich da" button_text="Kontakt" button_url="/contact/" subtitle="Schicke uns einfach eine Nachricht" %}
 
