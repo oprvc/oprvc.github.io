@@ -37,26 +37,7 @@ authors:
     name: Sebastian Hofmann
     title: Jurist & Datenschutzbeauftragter
     avatar: sebastian_hofmann.jpg
-  evan:
-    name: Evan Wells
-    title: Support
-    avatar: avatar-evan.png
-  sara:
-    name: Sara Galen
-    title: Lead Developer
-    avatar: avatar-sara.png
-  alex:
-    name: Alex Koch
-    title: Design Engineer
-    avatar: avatar-alex.png
-  daniel:
-    name: Daniel Shultz
-    title: Developer
-    avatar: avatar-daniel.png
-  tom:
-    name: Tom Farrell
-    title: Developer
-    avatar: avatar-tom.png
+
 
 # Social icons displayed in footer
 social:
