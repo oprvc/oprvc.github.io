@@ -25,7 +25,7 @@ left:
 right:
 
   - title: <span uk-icon="github"></span>
-    url: /changelog-timeline/
+    url: https://github.com/oprvc/oprvc.github.io
     button: primary-outline
 
   - title: Kontakt
