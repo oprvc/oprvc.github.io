@@ -24,7 +24,7 @@ left:
 
 right:
 
-  - title: GitHub
+  - title: <span uk-icon="heart"></span>
     url: /changelog-timeline/
     button: primary-outline
 
