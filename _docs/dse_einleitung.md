@@ -4,7 +4,8 @@ subtitle: Einleitungstext und allgemeine Informationen für Datenschutzerklärun
 tags: [allgemein]
 ---
 ### Mustertext Datenschutzerklärung
-#### Datenschutzerklärung
+Datenschutzerklärung
+
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
 Verantwortlich im Sinne der DSGVO ist:
