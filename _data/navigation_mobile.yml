@@ -9,8 +9,9 @@
 # - title: Blog
 #   url: /blog/
 
-- title: GitHub
+- title: <span uk-icon="github"></span>
   url: /changelog-timeline/
+  button: primary-outline
 
 - title: Kontakt
   url: /contact/
