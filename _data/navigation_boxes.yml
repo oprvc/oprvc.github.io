@@ -2,12 +2,12 @@
 
 - title: privacy.docs
   desc: Get started fast with installation and theme setup instructions
-  icon: database
+  icon: folder
   doc: installation
 
-- title: datenschutzerklärung
-  desc: Lean about all the theme options, features and how to use them
-  icon: file-text
+- title: Datenschutzerklärung
+  desc: Finde kostenlose und frei Nutzbare Textbausteine für deine Datenschutzerklärung
+  icon: file-edit
   doc: hero
 
 - title: contribute
