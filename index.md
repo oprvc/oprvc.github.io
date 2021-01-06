@@ -17,7 +17,7 @@ hero:
 {% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}
 --->
 
-{% include faqs.html multiple="true" title="Häufig gestellte Fragen" category="presale" subtitle="Antworten auf deine Fragen" %}
+{% include faqs.html multiple="true" title="Häufig gestellte Fragen" category="frontpage" subtitle="Antworten auf deine Fragen" %}
 
 {% include team.html authors="sebastian" title="Wer steckt dahinter?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
 
