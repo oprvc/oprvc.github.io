@@ -1,10 +1,13 @@
+- title: Einleitung
+  docs:
+  - dse_einleitung
+
 - title: Hosting
   docs:
   - hosting_allgemein
 
 - title: Theme Features
   docs:
-  - hero
   - boxes
   - featured
   - videos
