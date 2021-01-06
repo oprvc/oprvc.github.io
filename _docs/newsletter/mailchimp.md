@@ -15,10 +15,10 @@ Wir verwenden für den Versand unseres Newsletters Mailchimp von The Rocket Scie
 
 Dafür geben wir folgende personenbezogene Daten an Mailchimp weiter:
 
-- E-Mail-Adresse
-[- Vorname]
-[- Nachname]
-[-Telefonnummer]
+E-Mail-Adresse
+[Vorname]
+[Nachname]
+[Telefonnummer]
 
 [Unsere E-Mail-Aussendungen beinhalten einen Link, mit dem Sie Ihre personenbezogenen Daten aktualisieren können.]
 
