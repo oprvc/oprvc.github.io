@@ -1,5 +1,5 @@
 ---
-title: Einleitung Datenschutzerklärung
+title: Einleitung
 subtitle: Einleitungstext und allgemeine Informationen für Datenschutzerklärungen
 tags: [allgemein]
 ---
