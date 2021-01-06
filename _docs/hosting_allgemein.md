@@ -3,7 +3,7 @@ title: Hosting
 subtitle: Allgemeine Informationen zum Hosting inkl. Muster für deine Datenschutzerklärung
 tags: [hosting]
 ---
-#### Sections in this article
+### Inhaltsverzeichnis
 {:.no_toc}
 * TOC
 {:toc}
