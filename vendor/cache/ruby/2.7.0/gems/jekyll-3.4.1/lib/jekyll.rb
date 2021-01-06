@@ -87,7 +87,7 @@ module Jekyll
     # images and allows you to skip that when working in development.
 
     def env
-      ENV["JEKYLL_ENV"] || "production"
+      ENV["JEKYLL_ENV"] || "development"
     end
 
     # Public: Generate a Jekyll configuration Hash by merging the default
