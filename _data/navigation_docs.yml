@@ -9,8 +9,8 @@
 - title: Cookie Consent Management
   docs:
   - cookies/cookies_allgemein
-  - cookies/usercentrics
   - cookies/cookiebot
+  - cookies/usercentrics
 
 - title: Kontakt
   docs:
