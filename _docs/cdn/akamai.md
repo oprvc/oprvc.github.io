@@ -1,7 +1,7 @@
 ---
 title: Akamai
 subtitle: Informationen über Akamai
-tags: [newsletter]
+tags: [cdn]
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}

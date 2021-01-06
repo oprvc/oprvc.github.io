@@ -18,3 +18,5 @@
 - title: Content Delivery Network
   docs:
   - cdn/akamai
+  - cdn/amazon_cloudfront
+  - cdn/cloudflare
