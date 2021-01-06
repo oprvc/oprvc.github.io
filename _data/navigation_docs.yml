@@ -14,3 +14,7 @@
 - title: Newsletter
   docs:
   - newsletter/mailchimp
+
+- title: Content Delivery Network
+  docs:
+  - cdn/akamai
