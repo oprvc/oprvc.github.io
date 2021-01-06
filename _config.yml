@@ -33,9 +33,9 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-  john:
-    name: John Brown
-    title: Support
+  sebastian:
+    name: Sebastian Hofmann
+    title: Jurist
     avatar: avatar-john.png
 
 # Social icons displayed in footer
