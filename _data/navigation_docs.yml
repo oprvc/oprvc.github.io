@@ -11,6 +11,10 @@
   - cookies/cookies_allgemein
   - cookies/usercentrics
 
+- title: Kontakt
+  docs:
+  - kontakt/kontaktformular
+
 - title: Newsletter
   docs:
   - newsletter/mailchimp
