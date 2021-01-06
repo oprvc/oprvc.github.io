@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Google Analytics
+title: Quak Analytics
 categories: [Features]
 author: evan
 tags: 
