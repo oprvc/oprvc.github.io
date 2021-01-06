@@ -3,6 +3,11 @@ title: Cookies
 subtitle: Allgemeine Informationen über Cookies
 tags: [cookies]
 ---
+### Inhaltsverzeichnis
+{:.no_toc}
+* TOC
+{:toc}
+
 ### Mustertext Datenschutzerklärung
 Cookies
 

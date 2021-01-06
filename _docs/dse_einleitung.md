@@ -3,6 +3,11 @@ title: Einleitung Datenschutzerklärung
 subtitle: Einleitungstext und allgemeine Informationen für Datenschutzerklärungen
 tags: [allgemein]
 ---
+### Inhaltsverzeichnis
+{:.no_toc}
+* TOC
+{:toc}
+
 ### Mustertext Datenschutzerklärung
 Datenschutzerklärung
 
