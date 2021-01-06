@@ -6,6 +6,10 @@
   docs:
   - hosting_allgemein
 
+- title: Cookies
+  docs:
+  - cookies_allgemein
+
 - title: Theme Features
   docs:
   - boxes
