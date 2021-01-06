@@ -3,10 +3,10 @@
 en:
   previous:                   "Zurück"
   next:                       "Weiter"
-  related_docs:               "Related Docs"
-  related_posts:              "Related Posts"
+  related_docs:               "Ähnliche Docs"
+  related_posts:              "Ähnliche Posts"
   read_more:                  "Read more"
-  written_by:                 "Written by"
+  written_by:                 "von"
   share_twitter:              "Share on Twitter"
   share_facebook:             "Share on Facebook"
   search_placeholder:         "Service / Hersteller"
