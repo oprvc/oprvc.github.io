@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: open source privacy
-    subtitle: Finde Textbausteine für deine Datenschutzerklärung inkl. technischer und rechtlicher Hintergrundinformationen.
+    subtitle: Textbausteine für deine Datenschutzerklärung und unabhängige Hintergrundinformationen
     image: oprvc_logo.png
     search: true
 ---
