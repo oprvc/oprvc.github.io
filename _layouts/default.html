@@ -17,9 +17,7 @@
 
     {% include offcanvas.html %}
 
-    <!-- {% if page.layout != 'doc' %} -->
-        {% include footer.html %}
-    <!-- {% endif %} -->
+    {% include footer.html %}
 
     {% if page.layout == 'doc' %}
         {% include hook-pre-closing-body-doc.html %}
