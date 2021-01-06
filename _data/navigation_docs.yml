@@ -10,3 +10,7 @@
   docs:
   - cookies/cookies_allgemein
   - cookies/usercentrics
+
+- title: Newsletter
+  docs:
+  - newsletter/mailchimp
