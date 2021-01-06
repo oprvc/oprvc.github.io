@@ -19,7 +19,7 @@ hero:
 
 {% include faqs.html multiple="true" title="Häufig gestellte Fragen" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %}
 
-{% include team.html authors="sebastian" title="Wir sind da für dich" subtitle="Schicke uns einfach eine Nachricht" %}
+{% include team.html authors="sebastian" title="Wer steckt dahinter?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
 
-{% include cta.html title="Didn't find an answer?" button_text="Kontakt" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
+{% include cta.html title="Wir sind da für dich" button_text="Kontakt" button_url="/contact/" subtitle="Schicke uns einfach eine Nachricht" %}
 
