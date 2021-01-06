@@ -64,7 +64,7 @@ share:
 
 # Default footer image settings
 footer:
-  copyright: (C) 2021 opr.vc
+  copyright: &#169; 2021 opr.vc
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
