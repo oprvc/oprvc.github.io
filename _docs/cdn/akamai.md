@@ -1,5 +1,5 @@
 ---
-title: Mailchimp
+title: Akamai
 subtitle: Informationen über Akamai
 tags: [newsletter]
 ---
