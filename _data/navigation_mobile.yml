@@ -6,11 +6,11 @@
 # - title: Docs
 #   url: /docs/installation/
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
-# - title: Changelog
-#   url: /changelog-timeline/
+- title: GitHub
+  url: /changelog-timeline/
 
 - title: Kontakt
   url: /contact/
