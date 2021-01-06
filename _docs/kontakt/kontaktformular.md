@@ -1,7 +1,7 @@
 ---
-title: Mailchimp
-subtitle: Informationen über Mailchimp
-tags: [newsletter]
+title: Kontaktforumlar
+subtitle: Informationen über Kontaktformulare
+tags: [kontakt]
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
