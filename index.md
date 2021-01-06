@@ -8,7 +8,7 @@ hero:
     search: true
 ---
 
-{% include boxes.html columns="3" title="Gemeinsam für mehr Datenschutz" subtitle="Chose an option that you need help with or search above" %}
+{% include boxes.html columns="3" title="Gemeinsam für mehr Datenschutz" subtitle="Was wir für dich tun können. Was du für alle tun kannst." %}
 
 <!---
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
