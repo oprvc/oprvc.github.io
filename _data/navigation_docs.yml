@@ -20,3 +20,10 @@
   - cdn/akamai
   - cdn/amazon_cloudfront
   - cdn/cloudflare
+
+- title: Zahlungsdienstleister
+  docs:
+  - payment/amazon_pay
+  - payment/paypal
+  - payment/sofortueberweisung
+  - payment/stripe
