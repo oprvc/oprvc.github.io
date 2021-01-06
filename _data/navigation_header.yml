@@ -24,7 +24,7 @@ left:
 
 right:
 
-   - title: GitHub
+  - title: GitHub
      url: /changelog-timeline/
      button: primary-outline
 
