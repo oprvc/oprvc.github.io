@@ -27,9 +27,9 @@ navbar:
 
 # Default author settings
 author:
-  name: Pete Seth
-  title: Lead Developer
-  avatar: avatar-tom.png
+  name: Sebastian Hofmann
+  title: Jurist & Datenschutzbeauftragter
+  avatar: sebastian_hofmann.jpg
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
