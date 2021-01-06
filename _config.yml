@@ -34,8 +34,8 @@ author:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
   sebastian:
-    name: John Brown
-    title: Support
+    name: Sebastian Hofmann
+    title: Jurist
     avatar: sebastian_hofmann.jpg
   evan:
     name: Evan Wells
