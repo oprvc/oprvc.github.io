@@ -1,10 +1,6 @@
-- title: Getting Started
+- title: Allgemein
   docs:
-  - setup
-  - navigation
-  - posts
-  - docs
-  - comments
+  - hosting
 
 - title: Theme Features
   docs:
