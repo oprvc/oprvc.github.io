@@ -1,6 +1,6 @@
 ---
 title: Mailchimp
-subtitle: Allgemeine Informationen über Mailchimp
+subtitle: Informationen über Mailchimp
 tags: [newsletter]
 ---
 ### Inhaltsverzeichnis
