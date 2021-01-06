@@ -25,14 +25,14 @@ left:
 right:
 
   - title: GitHub
-     url: /changelog-timeline/
-     button: primary-outline
+    url: /changelog-timeline/
+    button: primary-outline
 
   - title: Kontakt
     url: /contact/
     button: success
 
-  # - title: Changelog
+  #- title: Changelog
   #   url: /contact/
   #   button: default
 
