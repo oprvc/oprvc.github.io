@@ -24,9 +24,9 @@ left:
 
 right:
 
-  # - title: Changelog
-  #   url: /changelog-timeline/
-  #   button: primary-outline
+   - title: GitHub
+     url: /changelog-timeline/
+     button: primary-outline
 
   - title: Kontakt
     url: /contact/
