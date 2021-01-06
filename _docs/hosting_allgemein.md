@@ -3,6 +3,11 @@ title: Hosting
 subtitle: Allgemeine Informationen zum Hosting inkl. Muster für deine Datenschutzerklärung
 tags: [hosting]
 ---
+#### Sections in this article
+{:.no_toc}
+* TOC
+{:toc}
+
 ### Muster Datenschutzerklärung
 Hosting
 Sofern Sie sich als Besucher weder registrieren noch einloggen, erheben wir in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
