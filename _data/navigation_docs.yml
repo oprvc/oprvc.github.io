@@ -1,13 +1,10 @@
 - title: Getting Started
   docs:
-  - installation
   - setup
   - navigation
-  - footer
   - posts
   - docs
   - comments
-  - analytics
 
 - title: Theme Features
   docs:
