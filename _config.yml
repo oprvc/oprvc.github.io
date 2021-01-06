@@ -57,14 +57,14 @@ social:
 
 # Share button
 share:
-  post: true # Display share buttons on a post page
-  doc: true # Display share buttons on a doc page
+  post: false # Display share buttons on a post page
+  doc: false # Display share buttons on a doc page
   twitter: username # Enable by adding Twitter handle
-  facebook: true # Enable by setting true (Facebook handle not required)
+  facebook: false # Enable by setting true (Facebook handle not required)
 
 # Default footer image settings
 footer:
-  copyright:
+  copyright: (C) 2021 opr.vc
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
