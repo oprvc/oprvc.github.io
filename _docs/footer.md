@@ -1,7 +1,7 @@
 ---
 title: Footer options
 subtitle: This document covers the setup and options of theme feature described in the doc title
-author: john
+author: sebastian
 tags: [setup]
 ---
 

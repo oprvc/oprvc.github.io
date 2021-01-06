@@ -33,7 +33,7 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-  john:
+  sebastian:
     name: John Brown
     title: Support
     avatar: avatar-john.png
