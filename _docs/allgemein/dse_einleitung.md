@@ -12,7 +12,7 @@ tags: [allgemein]
 **Datenschutzerklärung**
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
-**Verantwortlich im Sinne der DSGVO ist:**
+**Verantwortlich im Sinne der DSGVO ist:**  
 [Name]  
 [ladungsfähige Anschrift]  
 [E-Mail-Adresse]
