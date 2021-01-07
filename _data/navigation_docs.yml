@@ -20,6 +20,10 @@
   docs:
   - newsletter/mailchimp
 
+- title: seo
+  docs:
+  - seo/google_search_console
+
 - title: Content Delivery Network
   docs:
   - cdn/akamai
