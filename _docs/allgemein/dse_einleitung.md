@@ -9,7 +9,7 @@ tags: [allgemein]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-**Datenschutzerklärung**
+**Datenschutzerklärung**  
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
 **Verantwortlich im Sinne der DSGVO ist:**  
