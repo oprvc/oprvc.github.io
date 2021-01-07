@@ -9,31 +9,31 @@ tags: [allgemein]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-Datenschutzerklärung
+**Datenschutzerklärung**
 
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
-Verantwortlich im Sinne der DSGVO ist:
+**Verantwortlich im Sinne der DSGVO ist:**
 
 [Name]
 [ladungsfähige Anschrift]
 [E-Mail-Adresse]
 
-Unseren Datenschutzbeauftragten erreichen sie unter:
+**Unseren Datenschutzbeauftragten erreichen sie unter:**
 [Name]
 [ladungsfähige Anschrift]
 [gesonderte E-Mail-Adresse des Datenschutzbeauftragten]
 
 Sollten Sie per E-Mail [oder über Kontaktformular] mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten. 
 
-Zu den verarbeiteten Daten zählen:
+**Zu den verarbeiteten Daten zählen:**
 [Ihr Name]
 [Ihre E-Mail-Adresse]
 [Ihre Telefonnummer]
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
 
-Betroffenenrechte
+**Betroffenenrechte**
 
 Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
 
