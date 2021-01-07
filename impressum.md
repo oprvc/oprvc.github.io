@@ -15,8 +15,7 @@ Salomon-Idler-Str. 30
 
 ### Kontaktdaten
 
-E-Mail: info@opr.vc
-
+E-Mail: info@opr.vc  
 Internetseite: [https://opr.vc](https://opr.vc)
 
 ### Datenschutz
