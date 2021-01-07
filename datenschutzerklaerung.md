@@ -58,4 +58,4 @@ GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgese
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors)
 
-[powered by opr.vc](https://opr.vc)
+[open privacy by opr.vc](https://opr.vc)
