@@ -27,9 +27,9 @@ Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet wer
 Sollten Sie per E-Mail [oder über Kontaktformular] mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten. 
 
 **Zu den verarbeiteten Daten zählen:**
-[Ihr Name]
-[Ihre E-Mail-Adresse]
-[Ihre Telefonnummer]
+[Ihr Name]  
+[Ihre E-Mail-Adresse]  
+[Ihre Telefonnummer]  
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
 
