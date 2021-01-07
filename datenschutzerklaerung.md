@@ -11,7 +11,7 @@ Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet w
 Sebastian Hofmann  
 Salomon-Idler-Str. 30  
 86159 Augsburg  
-info@opr.vc
+<info@opr.vc>
 
 Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um dein Anliegen zu bearbeiten.
 
