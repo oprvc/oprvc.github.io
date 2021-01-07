@@ -16,7 +16,7 @@ baseurl: ""
 permalink: /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url: ""
+url: "https://opr.vc"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: oprvc_logo_small.png
