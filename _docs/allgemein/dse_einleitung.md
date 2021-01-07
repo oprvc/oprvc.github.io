@@ -15,13 +15,13 @@ Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet wer
 
 **Verantwortlich im Sinne der DSGVO ist:**
 
-[Name]
-[ladungsfähige Anschrift]
+[Name]  
+[ladungsfähige Anschrift]  
 [E-Mail-Adresse]
 
 **Unseren Datenschutzbeauftragten erreichen sie unter:**
-[Name]
-[ladungsfähige Anschrift]
+[Name]  
+[ladungsfähige Anschrift]  
 [gesonderte E-Mail-Adresse des Datenschutzbeauftragten]
 
 Sollten Sie per E-Mail [oder über Kontaktformular] mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten. 
@@ -29,7 +29,7 @@ Sollten Sie per E-Mail [oder über Kontaktformular] mit uns Kontakt aufnehmen, w
 **Zu den verarbeiteten Daten zählen:**
 [Ihr Name]  
 [Ihre E-Mail-Adresse]  
-[Ihre Telefonnummer]  
+[Ihre Telefonnummer]
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
 
