@@ -19,13 +19,15 @@ Hinsichtlich der Funktion ist zwischen technisch notwendigen und nicht notwendig
 **Technisch notwendige Cookies**  
 Hier finden Sie sämtliche Cookies, die für den Betrieb unserer Website und ihrer Funktionen erforderlich sind (technisch notwendige Cookies). Diese werden in der Regel als Reaktion auf eine von Ihnen getätigte Aktion gesetzt. Dazu zählen u.a. Registrierung, Anmeldung oder Einstellungen wie Sprache oder Cookie-Präferenzen. Es besteht die Möglichkeit, diese Cookies im Browser zu deaktivieren. Eine fehlerfreie Funktionsweise unserer Website kann in diesem Fall nicht mehr sichergestellt werden.
 
-
-Host    Cookie    Zweck    verarbeitete Daten Drittdienst    Gültigkeitsdauer
+| Host | Cookie | Zweck | verarbeitete Daten | Drittdienst | Gültigkeitsdauer |
+|------|--------|-------|--------------------|-------------|------------------|
+|      |        |       |                    |             |                  |
 
 **Technisch nicht notwendige Cookies**  
 Hier finden Sie sämtliche Cookies, die für den Betrieb unserer Website und ihrer Funktionen nicht zwingend erforderlich sind (technisch nicht notwendige Cookies). Der Einsatz solcher Cookies, stellt eine Datenverarbeitung dar, die nur mit aktiver Einwilligung Ihrerseits erlaubt ist (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Dies gilt ebenso für die Weitergabe Ihrer personenbezogenen Daten an Dritte.
 
-
-Host    Cookie    Zweck    verarbeitete Daten Drittdienst    Gültigkeitsdauer
+| Host | Cookie | Zweck | verarbeitete Daten | Drittdienst | Gültigkeitsdauer |
+|------|--------|-------|--------------------|-------------|------------------|
+|      |        |       |                    |             |                  |
 
 Sie können über Ihre Browsereinstellungen einzelne oder sämtliche Cookies löschen. Zusätzlich haben Sie über Ihre Browsereinstellungen die Möglichkeit, Cookies generell zu deaktivieren oder auf bestimmte Domains zu beschränken.
