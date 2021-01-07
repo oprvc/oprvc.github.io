@@ -8,7 +8,7 @@ tags: [multilingual]
 * TOC
 {:toc}
 
-Das WPML-Plugin verarbeitet im Falle der Zustimmung lediglich Daten über Theme und verwendete Plugins, um den Support zu verbessern. Personenbezogene Daten werden nicht verarbeitet.
+Das WPML-Plugin verarbeitet im Falle der Zustimmung lediglich Daten über Theme und verwendete Plugins, um den Support zu verbessern. Personenbezogene Daten werden nicht verarbeitet. Weitere Informationen unter: [https://wpml.org/de/documentation-3/privacy-policy-and-gdpr-compliance/#what-personal-data-we-collect-and-why-we-collect-it](https://wpml.org/de/documentation-3/privacy-policy-and-gdpr-compliance/#what-personal-data-we-collect-and-why-we-collect-it)
 
 ### Technische Hinweise
 Besonderheiten gelten bei der Verwendung von integrierten Drittanbieter-Plugins. Es sollte gesondert geprüft werden, inwieweit diese Plugins personenbezogene Daten verarbeiten.
