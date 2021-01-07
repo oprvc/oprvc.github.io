@@ -92,7 +92,7 @@ gems:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-extlinks
   - jekyll-minifier:
       preserve_php: true                # Default: false
       remove_spaces_inside_tags: true   # Default: true
@@ -148,3 +148,7 @@ defaults:
       type: docs
     values:
       layout: doc
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['opr.vc']
