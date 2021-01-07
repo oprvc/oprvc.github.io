@@ -23,6 +23,7 @@
 - title: SEO
   docs:
   - seo/google_search_console
+  - seo/yoast_seo_wordpress
 
 - title: Content Delivery Network
   docs:
