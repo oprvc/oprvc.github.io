@@ -15,7 +15,7 @@ Salomon-Idler-Str. 30
 86159 Augsburg  
 <info@opr.vc>
 
-##### PGP KEY
+##### PGP Key
 ```AsciiDoc
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG v1.65
