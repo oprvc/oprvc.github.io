@@ -22,12 +22,10 @@ Hier finden Sie sämtliche Cookies, die für den Betrieb unserer Website und ihr
 | Host | Cookie | Zweck | verarbeitete Daten | Drittdienst | Gültigkeitsdauer |
 |------|--------|-------|--------------------|-------------|------------------|
 |      |        |       |                    |             |                  |
-
 **Technisch nicht notwendige Cookies**  
 Hier finden Sie sämtliche Cookies, die für den Betrieb unserer Website und ihrer Funktionen nicht zwingend erforderlich sind (technisch nicht notwendige Cookies). Der Einsatz solcher Cookies, stellt eine Datenverarbeitung dar, die nur mit aktiver Einwilligung Ihrerseits erlaubt ist (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Dies gilt ebenso für die Weitergabe Ihrer personenbezogenen Daten an Dritte.
 
 | Host | Cookie | Zweck | verarbeitete Daten | Drittdienst | Gültigkeitsdauer |
 |------|--------|-------|--------------------|-------------|------------------|
 |      |        |       |                    |             |                  |
-
 Sie können über Ihre Browsereinstellungen einzelne oder sämtliche Cookies löschen. Zusätzlich haben Sie über Ihre Browsereinstellungen die Möglichkeit, Cookies generell zu deaktivieren oder auf bestimmte Domains zu beschränken.
