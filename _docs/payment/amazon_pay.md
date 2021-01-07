@@ -23,6 +23,6 @@ Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzli
 
 Amazon Payments Europe behält sich das Recht vor eine Bonitätsauskunft durchzuführen, um Ihre Zahlungsbereitschaft und -fähigkeit sicherzustellen. Dies entspricht dem berechtigten Interesse Amazon Payments Europe (gem. Art. 6 Abs. 1 lit. f DSGVO) und dient der Vertragsdurchführung (gem. Art. 6 Abs. 1 lit. b DSGVO). Dafür werden Ihre Daten an Auskunfteien und Online-Händler weitergegeben. Außerdem können Ihre Daten für interessenbezogene Werbe- und Marketingzwecke von amazon pay verwendet, soweit Sie dafür in Ihren Kontoeinstellungen eingewilligt haben (https://www.amazon.de/adprefs). Wir haben auf diesen Prozess keinen Einfluss und erhalten lediglich das Ergebnis, ob die Zahlung durchgeführt oder abgelehnt wurde.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Amazon Payments Europe finden Sie unter: https://pay.amazon.de/help/201212490
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Amazon Payments Europe finden Sie unter: [https://pay.amazon.de/help/201212490](https://pay.amazon.de/help/201212490).
 
 Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
