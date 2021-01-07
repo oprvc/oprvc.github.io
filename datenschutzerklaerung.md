@@ -28,14 +28,16 @@ Bitte richte deinen Widerspruch formlos an oben genannte Adresse.
 
 Darüber hinaus hast du das Recht auf Datenübertragbarkeit. Du hast weiter das Recht, dich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden findest du unter: [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-**Hosting**
+**Hosting**  
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die dein Browser übermittelt:
 
-IP-Adresse, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
+IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
 
 Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
 
-Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein.
+Wir haben auf diese Daten keinen direkten Zugriff, sondern erhalten lediglich eine anonymisierte statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die eindeutigen Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
+
+Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
 GitHub Inc.  
 88 Colin P Kelly Jr St  
