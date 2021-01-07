@@ -39,4 +39,5 @@
   - payment/stripe
 
 - title: Mehrsprachigkeit
+  docs:
   - multilingual/wpml_wordpress_plugin
