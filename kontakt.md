@@ -1,10 +1,12 @@
 ---
 layout: page
 width: xsmall
-title: Kontakt
+hero:
+    title: Kontakt
+    search: false
 ---
 
-#### Solltest du Fragen haben, dann schreib uns eine Nachricht.
+### Solltest du Fragen haben, dann schreib uns eine Nachricht.
 Bitte beachte, dass wir keine Rechtsberatung über diese Seite anbieten können.
 
 **opr.vc**  
