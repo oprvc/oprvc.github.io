@@ -6,7 +6,7 @@ hero:
 ---
 
 ### Angaben gemäß § 5 des Telemediengesetzes​
-Name des Anbieters
+#### Name des Anbieters
 
 Sebastian Hofmann
 
