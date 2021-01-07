@@ -1,12 +1,21 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Kontakt
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+#### Solltest du Fragen haben, dann schreib uns eine Nachricht.
+Bitte beachte, dass wir keine Rechtsberatung über diese Seite anbieten können.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+opr.vc
 
+Sebastian Hofmann
 
+Sebastian Hofmann
+
+Salomon-Idler-Str. 30
+
+86159 Augsburg
+
+<info@opr.vc>
