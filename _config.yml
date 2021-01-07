@@ -92,6 +92,7 @@ gems:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
+  - jekyll-minifier
 exclude:
   - Gemfile
   - Gemfile.lock
