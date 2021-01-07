@@ -1,5 +1,6 @@
 ---
 layout: page
+width: xsmall
 hero:
     title: Impressum
     search: false
