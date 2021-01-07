@@ -10,16 +10,14 @@ tags: [allgemein]
 
 ### Mustertext Datenschutzerklärung
 **Datenschutzerklärung**
-
 Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
 
 **Verantwortlich im Sinne der DSGVO ist:**
-
 [Name]  
 [ladungsfähige Anschrift]  
 [E-Mail-Adresse]
 
-**Unseren Datenschutzbeauftragten erreichen sie unter:**
+**Unseren Datenschutzbeauftragten erreichen sie unter:**  
 [Name]  
 [ladungsfähige Anschrift]  
 [gesonderte E-Mail-Adresse des Datenschutzbeauftragten]
