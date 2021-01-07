@@ -5,6 +5,7 @@
 - title: Hosting
   docs:
   - hosting/hosting_allgemein
+  - hosting/github_pages
 
 - title: Cookie Consent Management
   docs:
