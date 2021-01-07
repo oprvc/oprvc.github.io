@@ -7,5 +7,5 @@ Du bist Websitebetreiber, Jurist, Entwickler, Nutzer? Schau dich auf [GitHub](ht
 
 Gern kannst du uns auch mit einem Link zu uns unter deiner Datenschutzerklärung unterstützen. Dafür kannst du gern den folgendenden Code verwenden. Ganz wie du willst.
 ```html
-<a href=“https://opr.vc“>powered by opr.vc</a>
+<a href=“https://opr.vc“>open privacy by opr.vc</a>
 ```
