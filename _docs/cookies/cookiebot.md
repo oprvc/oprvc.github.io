@@ -9,8 +9,7 @@ tags: [cookies]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-Cookiebot
-
+**Cookiebot**  
 Wir nutzen der Zustimmungsverwaltungsdienst Cookiebot, der Cybot A/S, Havnegade 39, 1058 Kopenhagen, Dänemark (Cybot). Dies ermöglicht uns die Einwilligung der Websitenutzer zur Datenverarbeitung einzuholen und zu verwalten. Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich (Art. 7 Abs. 1DSGVO), der wir unterliegen (Art. 6 Abs. 1 S. 1 lit. c DSGVO). Dafür werden mit Hilfe von Cookies folgende Daten verarbeitet:
 
 Ihre IP-Adresse (die letzten drei Ziffern werden auf ‚0’ gesetzt).
