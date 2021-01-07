@@ -35,7 +35,7 @@ Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich is
 
 Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten. Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
 
-Bitte richten Sie Ihren Widerspruch oder Widerruf formlos an folgende Adresse:
+Bitte richten Sie Ihren Widerspruch [oder Widerruf] formlos an folgende Adresse:
 
 [Adresse, E-Mail-Adresse (oder Verweis nach oben), ggf. Datenschutzbeauftragter]
 
