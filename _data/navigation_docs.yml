@@ -37,3 +37,6 @@
   - payment/paypal
   - payment/sofortueberweisung
   - payment/stripe
+
+- title: Mehrsprachigkeit
+  - /multilingual/wpml_wordpress_plugin
