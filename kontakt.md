@@ -2,7 +2,6 @@
 layout: page
 width: xsmall
 title: Kontakt
-permalink: /contact/
 ---
 
 #### Solltest du Fragen haben, dann schreib uns eine Nachricht.
