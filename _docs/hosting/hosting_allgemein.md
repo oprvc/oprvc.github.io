@@ -9,7 +9,6 @@ tags: [hosting]
 {:toc}
 
 ### Muster Datenschutzerklärung
-```
 Hosting
 Sofern Sie sich als Besucher weder registrieren noch einloggen, erheben wir in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
@@ -30,7 +29,6 @@ Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolg
 Die Daten werden nach Ablauf von [14 Tagen] gelöscht.
 
 Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
-```
 
 ### Technische Hinweise
 Neben den Server-Logfiles können auch von der verwendeten Applikation und deren Plugins personenbezogene Daten verarbeitet werden. Darunter fallen u.a. die Protokollierung fehlerhafter Anmeldeversuche, oder Zugriffe auf nicht existierende Seiten (404). Dies sollte überprüft und entsprechend ergänzt werden.
