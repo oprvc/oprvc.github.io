@@ -93,6 +93,7 @@ gems:
   - jekyll-avatar
   - jekyll-sitemap
   - jekyll-extlinks
+  - jekyll-target-blank
   - jekyll-minifier:
       preserve_php: true                # Default: false
       remove_spaces_inside_tags: true   # Default: true
