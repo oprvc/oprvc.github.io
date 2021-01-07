@@ -1,16 +1,6 @@
 # Mobile menu navigation links
-
-# - title: Home
-#   url: /
-
-# - title: Docs
-#   url: /docs/allgemein/dse_einleitung/
-
-# - title: Blog
-#   url: /blog/
-
 - title: <span uk-icon="github"></span>
-  url: /changelog-timeline/
+  url: https://github.com/oprvc/oprvc.github.io
   button: primary-outline
 
 - title: Kontakt
