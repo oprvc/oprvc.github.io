@@ -9,7 +9,7 @@ tags: [hosting]
 {:toc}
 
 ### Muster Datenschutzerklärung
-Hosting  
+**Hosting**  
 Sofern Sie sich als Besucher weder registrieren noch einloggen, erheben wir in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 IP-Adresse, Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
