@@ -9,7 +9,7 @@
 - title: Cookie Consent Management
   docs:
   - cookies/cookies_allgemein
-  - cookies/borlabs_cookie.md
+  - cookies/borlabs_cookie
   - cookies/cookiebot
   - cookies/usercentrics
 
