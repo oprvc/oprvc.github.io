@@ -33,7 +33,10 @@ end
 gem 'jekyll-sitemap'
 
 # Minifier  
-gem 'jekyll-minifier' 
+gem 'jekyll-minifier'
+
+# External Link
+gem 'jekyll-target-blank'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
