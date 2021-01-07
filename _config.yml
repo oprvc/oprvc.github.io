@@ -91,6 +91,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-avatar
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
