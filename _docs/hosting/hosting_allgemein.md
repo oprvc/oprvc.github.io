@@ -20,7 +20,7 @@ Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein.
 
 [Name und Anschrift Hoster]
 
-Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig. Die entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist [Deutschland].
+Dieser ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist [Deutschland].
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber [Hoster] finden Sie unter: [Link]
 
