@@ -1,10 +1,7 @@
 ---
 layout: page
-width: expand
 hero:
     title: Impressum
-    subtitle: Textbausteine für deine Datenschutzerklärung und unabhängige Hintergrundinformationen
-    image: oprvc_logo.png
     search: false
 ---
 
