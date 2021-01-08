@@ -20,6 +20,6 @@ Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzli
 
 Ihre personenbezogenen Daten werden von Cloudflare so lange gespeichert, wie es für die beschriebenen Zwecke erforderlich ist.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Cloudflare finden Sie unter: [https://www.cloudflare.com/resources/assets/slt3lc6tev37/1M1j5uuFDuLTYiZJJDPBag/770322411bcac7f8bcc350e31b1e8319/Customer_DPA_v.3_1_-_de-de_19_Oct_2020.pdf](https://www.cloudflare.com/resources/assets/slt3lc6tev37/1M1j5uuFDuLTYiZJJDPBag/770322411bcac7f8bcc350e31b1e8319/Customer_DPA_v.3_1_-_de-de_19_Oct_2020.pdf)
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Cloudflare finden Sie unter: [https://www.cloudflare.com/resources/assets/slt3lc6tev37/1M1j5uuFDuLTYiZJJDPBag/770322411bcac7f8bcc350e31b1e8319/Customer_DPA_v.3_1_-&#95;de-de_19_Oct_2020.pdf](https://www.cloudflare.com/resources/assets/slt3lc6tev37/1M1j5uuFDuLTYiZJJDPBag/770322411bcac7f8bcc350e31b1e8319/Customer_DPA_v.3_1_-_de-de_19_Oct_2020.pdf)
 
 Cloudflare hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Cloudflare personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://www.cloudflare.com/cloudflare_customer_SCCs-German.pdf](https://www.cloudflare.com/cloudflare_customer_SCCs-German.pdf)
