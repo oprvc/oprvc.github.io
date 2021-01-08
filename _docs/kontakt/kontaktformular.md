@@ -9,7 +9,7 @@ tags: [kontakt]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-**Kontaktformulae**  
+**Kontaktformular**  
 Wir stellen Ihnen ein Kontaktformular zur Verfügung, mit dem wir folgende personenbezogene Daten erheben:
 
 [Name]  
