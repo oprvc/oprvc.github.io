@@ -3,6 +3,7 @@ layout: page
 width: xsmall
 hero:
     title: Impressum
+    subtile: Test
     search: false
 ---
 
