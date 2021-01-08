@@ -9,14 +9,13 @@ tags: [cdn]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-Akmai Content Delivery Network
-
+**Akmai Content Delivery Network**  
 Wir nutzen das Content Delivery Network (CDN) von Akamai Technologies GmbH, Parkring 20, 85748 Garching Deutschland (Akamai), um die Sicherheit und die Auslieferungsgeschwindigkeit unserer Website zu erhöhen. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit. f DSGVO). Ein CDN ist ein Netzwerk aus [weltweit] verteilten Servern, das in der Lage ist, optimiert Inhalte an den Websitenutzer auszuliefern. Für diesen Zweck können folgende personenbezogene Daten in Server-Logfiles von Akmai verarbeitet werden:
 
-Ihre IP-Adresse
-URLs von besuchten Seiten
-Datum und Uhrzeit des Zugriffs
-Standort basierend auf Ihrer IP-Adresse und des Standorts des Akamai Servers
+Ihre IP-Adresse  
+URLs von besuchten Seiten  
+Datum und Uhrzeit des Zugriffs  
+Standort basierend auf Ihrer IP-Adresse und des Standorts des Akamai Servers  
 Telemetriedaten (z.B. Mausklicks, Bewegungsabläufe und zugehörige Browserdaten)
 
 Bitte vergleichen Sie die Ausführungen unter „Hosting“. 
@@ -29,6 +28,6 @@ Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzli
 
 Ihre personenbezogenen Daten werden von Akamai so lange gespeichert, wie es für die beschriebenen Zwecke erforderlich ist.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Akamai finden Sie unter: https://www.akamai.com/de/de/multimedia/documents/akamai/akamai-data-protection-addendum.pdf
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Akamai finden Sie unter: [https://www.akamai.com/de/de/multimedia/documents/akamai/akamai-data-protection-addendum.pdf](https://www.akamai.com/de/de/multimedia/documents/akamai/akamai-data-protection-addendum.pdf)
 
-Akamai hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Akamai personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: https://www.akamai.com/us/en/multimedia/documents/akamai/akamai-pre-signed-eu-standard-contractual-clauses.pdf
+Akamai hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Akamai personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://www.akamai.com/us/en/multimedia/documents/akamai/akamai-pre-signed-eu-standard-contractual-clauses.pdf](https://www.akamai.com/us/en/multimedia/documents/akamai/akamai-pre-signed-eu-standard-contractual-clauses.pdf)
