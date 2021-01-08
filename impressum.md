@@ -5,7 +5,7 @@ hero:
     title: Impressum
     search: false
 ---
-
+  
 ### Angaben gemäß § 5 des Telemediengesetzes​
 #### Name des Anbieters
 
