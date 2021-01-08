@@ -6,8 +6,8 @@ hero:
     search: false
 ---
 
-### Angaben gemäß § 5 des Telemediengesetzes​
-#### Name des Anbieters
+## Angaben gemäß § 5 des Telemediengesetzes​
+### Name des Anbieters
 
 Sebastian Hofmann  
 Salomon-Idler-Str. 30  
