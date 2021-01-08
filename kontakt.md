@@ -5,7 +5,7 @@ hero:
     title: Kontakt
     search: false
 ---
-### Solltest du Fragen haben, dann schreib uns eine Nachricht.
+**Solltest du Fragen haben, dann schreib uns eine Nachricht.**
 Bitte beachte, dass wir keine Rechtsberatung über diese Seite anbieten können.
 
 **opr.vc**  
@@ -14,7 +14,7 @@ Salomon-Idler-Str. 30
 86159 Augsburg  
 <info@opr.vc>
 
-##### PGP Key
+**PGP Key**
 ```AsciiDoc
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG v1.65
