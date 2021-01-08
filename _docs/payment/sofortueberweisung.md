@@ -13,8 +13,8 @@ Sofortüberweisung
 
 Wir bieten die Möglichkeit, den Zahlungsvorgang über Sofortüberweisung des Zahlungsdienstleister Klarna GmbH, Theresienhöhe 12, 80339 München, Deutschland (Klarna) abzuwickeln. Dies entspricht unserem berechtigten Interesse, eine effiziente und sichere Zahlungsmethode anzubieten (Art. 6 Abs. 1 lit. f DSGVO). In dem Zusammenhang geben wir folgende Daten an Klarna weiter, soweit es für die Vertragserfüllung erforderlich ist (Art. 6 Abs. 1 lit b. DSGVO).
 
-[Vorname]
-[Nachname]
+[Vorname]  
+[Nachname]  
 Überweisungsbetrag
 
 [Wir sind gem. [§ / Geldwäschevorschriften] verpflichtet vor Durchführung der Zahlung einen Identitätscheck durchzuführen, um sicherzustellen, dass die Zahlung nicht von einem Dritten durchgeführt wird.
@@ -31,6 +31,6 @@ Weiter speichert Klarna Ihre Onlinebanking-Benutzer-Identifikation (Loginname/Ko
 
 Wir haben auf diesen Prozess keinen Einfluss und erhalten lediglich das Ergebnis, ob die Zahlung durchgeführt oder abgelehnt wurde, Ihre Kontonummer, BLZ, Betreff, Betrag und Datum.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Klarna finden Sie unter: https://www.sofort.com/payment/wizard/getCmsContent/data_protection/DE/0/de
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Klarna finden Sie unter: [https://www.sofort.com/payment/wizard/getCmsContent/data_protection/DE/0/de](https://www.sofort.com/payment/wizard/getCmsContent/data_protection/DE/0/de)
 
 Klarna speichert zu Abrechnungszwecken Ihren Namen, Kontonummer, Bankleitzahl, Betreff, Datum und Überweisungsbetrag innerhalb der gesetzlichen Aufbewahrungsfristen. Grundlage hierfür ist § 28 Abs. 1. Satz 1 Nr. 1. BDSG.
