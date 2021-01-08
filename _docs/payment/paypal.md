@@ -9,8 +9,7 @@ tags: [payment]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-PayPal
-
+**PayPal**
 Wir bieten die Möglichkeit, den Zahlungsvorgang über den Zahlungsdienstleister PayPal (PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg) abzuwickeln. Dies entspricht unserem berechtigten Interesse, eine effiziente und sichere Zahlungsmethode anzubieten (Art. 6 Abs. 1 lit. f DSGVO). In dem Zusammenhang geben wir folgende Daten an PayPal weiter, soweit es für die Vertragserfüllung erforderlich ist (Art. 6 Abs. 1 lit b. DSGVO).
 
 Vorname  
