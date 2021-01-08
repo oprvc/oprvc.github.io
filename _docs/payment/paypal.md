@@ -13,10 +13,10 @@ PayPal
 
 Wir bieten die Möglichkeit, den Zahlungsvorgang über den Zahlungsdienstleister PayPal (PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg) abzuwickeln. Dies entspricht unserem berechtigten Interesse, eine effiziente und sichere Zahlungsmethode anzubieten (Art. 6 Abs. 1 lit. f DSGVO). In dem Zusammenhang geben wir folgende Daten an PayPal weiter, soweit es für die Vertragserfüllung erforderlich ist (Art. 6 Abs. 1 lit b. DSGVO).
 
-Vorname
-Nachname
-Adresse
-E-Mail-Adresse
+Vorname  
+Nachname  
+Adresse  
+E-Mail-Adresse  
 Telefonnummer
 
 Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Übermittlung Ihrer personenbezogenen Daten können wir eine Zahlung über PayPal nicht durchführen. [Es besteht für Sie die Möglichkeit, eine andere Zahlungsmethode zu wählen.]
