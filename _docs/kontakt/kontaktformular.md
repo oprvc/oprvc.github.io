@@ -9,15 +9,17 @@ tags: [kontakt]
 {:toc}
 
 ### Mustertext Datenschutzerklärung
+**Kontaktformulae**  
 Wir stellen Ihnen ein Kontaktformular zur Verfügung, mit dem wir folgende personenbezogene Daten erheben:
 
-[Name]
+[Name]  
 [E-Mail-Adresse]
 
 Pflichtangaben sind mit einem * gekennzeichnet.
 
 Zusätzlich erheben wir:
-[Zeitpunkt der Übermittlung]
+
+[Zeitpunkt der Übermittlung]  
 [IP-Adresse]
 
 Die Daten werden ausschließlich zum Zweck der Übermittlung von Anfragen und deren Beantwortung gespeichert. Die Pflichtangaben dienen der Zuordnung und der Beantwortung Ihres Anliegen. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit f DSGVO). [Falls Sie sich über ein angebotenes Produkt oder eine Dienstleistung informieren, erfolgt die Verarbeitung zur Durchführung vorvertraglicher Maßnahmen (Art 6. Abs. 1 lit b DSGVO).]
