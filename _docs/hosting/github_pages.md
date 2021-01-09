@@ -6,9 +6,9 @@ vendorname: GitHub Inc.
 addressline1: 88 Colin P Kelly Jr St
 addressline2: San Francisco, CA 94107
 country: USA
-ppurl: https://www.link.de
-dpaurl: https://www.link.de
-sscurl: https://www.link.de
+ppurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement
+dpaurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum
+sccurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors
 privacyemail: support@github.com
 flag: us
 ---
