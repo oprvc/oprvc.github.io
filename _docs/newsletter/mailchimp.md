@@ -2,6 +2,15 @@
 title: Mailchimp
 subtitle: Informationen über Mailchimp
 tags: [newsletter]
+vendorname: The Rocket Science Group, LLC
+addressline1: 675 Ponce de Leon Ave NE Suite 5000
+addressline2: Atlanta, GA 30308
+country: USA
+ppurl: https://mailchimp.com/legal/privacy/#4._Privacy_for_Visitors
+dpaurl: https://mailchimp.com/legal/data-processing-addendum/
+sccurl: https://mailchimp.com/legal/terms/#Rights
+privacyemail:
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
