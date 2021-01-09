@@ -10,7 +10,7 @@ privacypolicy_link: https://test.de
 ---
 | **{{ page.vendor_name }}** |                                                |![USA](/uploads/flags/us.svg)|
 |----------------------------|------------------------------------------------|-----------------------------|
-| {{ page.address1 }}        |[Datenschutzerklärung](https://test.de)         |                             |
+| {{ page.address1 }}        |[Datenschutzerklärung]({{ page.address1 }})     |                             |
 | {{ page.address2 }}        |                                                |                             |
 | {{ page.country }}         |                                                |                             |
 
