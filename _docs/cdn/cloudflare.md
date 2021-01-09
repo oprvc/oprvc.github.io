@@ -2,6 +2,15 @@
 title: Cloudflare
 subtitle: Informationen über Cloudflare
 tags: [cdn]
+vendorname: Cloudflare, Inc.
+addressline1: 101 Townsend St
+addressline2: San Francisco, CA 94107
+country: USA
+ppurl: https://www.cloudflare.com/de-de/privacypolicy/
+dpaurl: https://www.cloudflare.com/resources/assets/slt3lc6tev37/1M1j5uuFDuLTYiZJJDPBag/bda8d591447971b3df2bccf5aa4e0916/Customer_DPA_v.3_1_-_en_1_Oct_2020.pdf
+sccurl: https://www.cloudflare.com/resources/assets/slt3lc6tev37/6irgPTeaoaj1J5woivgzER/a9a61395ed36a9da51de8e14b743594c/Cloudflare_Standard_Contractual_Clauses_for_Customers_1_Oct_2020.pdf
+privacyemail: privacyquestions@cloudflare.com
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
