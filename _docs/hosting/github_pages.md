@@ -13,7 +13,7 @@ privacypolicy_link: test.de <img src="/uploads/flags/us.svg" alt="USA" width="20
 | {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                                                        |
 | {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
 | {{ page.country }}         |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
-|                            |[support@github.com](mailto:support@github.com          |                                                        |
+|                            |[support@github.com](mailto:support@github.com)         |                                                        |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
