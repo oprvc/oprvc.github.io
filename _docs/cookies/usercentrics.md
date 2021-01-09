@@ -2,6 +2,15 @@
 title: Usercentrics
 subtitle: Informationen über Usercentrics
 tags: [cookies]
+vendorname: Usercentrics GmbH
+addressline1: Sendlinger Straße 7
+addressline2: 80331 München
+country: Deutschland
+ppurl: https://usercentrics.com/de/datenschutzerklaerung/
+dpaurl: 
+sccurl: 
+privacyemail: contact@usercentrics.com
+flag: eu
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
