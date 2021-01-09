@@ -103,6 +103,9 @@ exclude:
 sass:
   style: compressed
 
+compress_html:
+  comments: ["<!-- ", " -->"]
+
 collections:
   docs:
     output: true
