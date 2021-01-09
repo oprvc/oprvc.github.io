@@ -2,6 +2,7 @@
 title: GitHub Pages
 subtitle: Informationen zum Hosting mit GitHub Pages
 tags: [hosting]
+vendor_name: Test
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
