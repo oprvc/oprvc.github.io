@@ -2,6 +2,15 @@
 title: Sofortüberweisung
 subtitle: Informationen über Sofortüberweisung
 tags: [payment]
+vendorname: Klarna Bank AB (publ)
+addressline1: Sveavägen 46
+addressline2: 111 34 Stockholm
+country: Schweden
+ppurl: https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy
+dpaurl: 
+sccurl: 
+privacyemail: datenschutz@klarna.de
+flag: eu
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
