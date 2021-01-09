@@ -12,12 +12,6 @@ sscurl: https://www.link.de
 privacyemail: support@github.com
 flag: us
 ---
-| **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.flag }}" width="150"/>|
-|----------------------------|---------------------------------------------------------------------------------|
-| {{ page.address1 }}        |<a href="{{ page.privacypolicyul }}" rel="nofollow">Datenschutzerklärung</a>     |
-| {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                                          |
-| {{ page.country }}         |[SSC](https://{{ privacypolicy_link }})                                          |
-|                            |[support@github.com](mailto:support@github.com)                                  |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
