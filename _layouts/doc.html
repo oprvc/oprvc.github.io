@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include vendor.html %}
+
 
 <div class="uk-section">
     <div class="uk-container">
@@ -35,6 +35,8 @@ layout: default
                         {% include post-meta.html %}
                     </div>
 
+                    {% include vendor.html %}
+                    
                     <div class="article-content link-primary">
                         {{ content }}
                         {% if site.share.doc %}
