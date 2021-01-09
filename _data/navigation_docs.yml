@@ -2,10 +2,11 @@
   docs:
   - allgemein/dse_einleitung
 
-- title: Hosting
+- title: Content Delivery Network
   docs:
-  - hosting/hosting_allgemein
-  - hosting/github_pages
+  - cdn/akamai
+  - cdn/amazon_cloudfront
+  - cdn/cloudflare
 
 - title: Cookie Consent Management
   docs:
@@ -18,9 +19,18 @@
   docs:
   - fonts/google_fonts
 
+- title: Hosting
+  docs:
+  - hosting/hosting_allgemein
+  - hosting/github_pages
+
 - title: Kontakt
   docs:
   - kontakt/kontaktformular
+
+- title: Mehrsprachigkeit
+  docs:
+  - multilingual/wpml_wordpress_plugin
 
 - title: Newsletter
   docs:
@@ -31,19 +41,9 @@
   - seo/google_search_console
   - seo/yoast_seo_wordpress
 
-- title: Content Delivery Network
-  docs:
-  - cdn/akamai
-  - cdn/amazon_cloudfront
-  - cdn/cloudflare
-
 - title: Zahlungsdienstleister
   docs:
   - payment/amazon_pay
   - payment/paypal
   - payment/sofortueberweisung
   - payment/stripe
-
-- title: Mehrsprachigkeit
-  docs:
-  - multilingual/wpml_wordpress_plugin
