@@ -129,7 +129,6 @@ sass:
 
 collections:
   docs:
-    vendor_name:
     output: true
   faqs:
     output: false
