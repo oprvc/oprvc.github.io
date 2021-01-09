@@ -8,11 +8,11 @@ address2: San Francisco, CA 94107
 country: USA
 privacypolicy_link: test.de
 ---
-| **{{ page.vendor_name }}** |                                                        |![USA](/uploads/flags/us.svg)|
-|----------------------------|--------------------------------------------------------|-----------------------------|
-| {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                             |
-| {{ page.address2 }}        |                                                        |                             |
-| {{ page.country }}         |                                                        |                             |
+| **{{ page.vendor_name }}** |                                                        |![USA](/uploads/flags/us.svg =250x)|
+|----------------------------|--------------------------------------------------------|-----------------------------------|
+| {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                                   |
+| {{ page.address2 }}        |                                                        |                                   |
+| {{ page.country }}         |                                                        |                                   |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
