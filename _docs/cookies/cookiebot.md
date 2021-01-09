@@ -9,7 +9,7 @@ country: Dänemark
 ppurl: https://www.cookiebot.com/de/privacy-policy/
 dpaurl: 
 sccurl: 
-privacyemail:
+privacyemail: mail@cookiebot.com
 flag: eu
 ---
 ### Inhaltsverzeichnis
