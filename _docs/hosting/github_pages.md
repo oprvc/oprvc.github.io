@@ -8,12 +8,12 @@ address2: San Francisco, CA 94107
 country: USA
 privacypolicy_link: test.de <img src="/uploads/flags/us.svg" alt="USA" width="200"/>
 ---
-| **{{ page.vendor_name }}** |                                                        |<img src="/uploads/flags/us.svg" alt="USA" width="150"/>|
-|----------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                                                        |
-| {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
-| {{ page.country }}         |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
-|                            |[support@github.com](mailto:support@github.com)         |                                                        |
+| **{{ page.vendor_name }}** |<img src="/uploads/flags/us.svg" alt="USA" width="150"/>|
+|----------------------------|--------------------------------------------------------|
+| {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|
+| {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                 |
+| {{ page.country }}         |[DPA](https://{{ privacypolicy_link }})                 |
+|                            |[support@github.com](mailto:support@github.com)         |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
