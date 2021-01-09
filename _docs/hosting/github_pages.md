@@ -10,7 +10,7 @@ country: USA
 **{{ page.vendor_name }}**  
 {{ page.address1 }}  
 {{ page.address2 }}  
-{{ page.country }}  
+{{ page.country }}
 
 ### Inhaltsverzeichnis
 {:.no_toc}
