@@ -35,6 +35,8 @@
         {% if page.dpaurl %}
           {% if page.privacyemail != %}
             <a href="mailto:{{ page.privacyemail }}">{{ page.privacyemail }}</a>
+          {% else %}
+            N.A.
           {% endif %}
         {% endif %}
       </td>
