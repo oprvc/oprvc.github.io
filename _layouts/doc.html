@@ -34,8 +34,10 @@ layout: default
                     <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
                         {% include post-meta.html %}
                     </div>
-
-                    {% include vendor.html %}
+                    
+                    {% if page.vendorname %}
+                        {% include vendor.html %}
+                    {% endif %}
                     
                     <div class="article-content link-primary">
                         {{ content }}
