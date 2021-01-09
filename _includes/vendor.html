@@ -12,7 +12,9 @@
     </tr>
     <tr>
       <td>{{ page.addressline2 }}</td>
+      {% if page.dpaurl %}
       <td><a href="{{ page.dpaurl }}">DPA</a></td>
+      {% endif %}
     </tr>
     <tr>
       <td>{{ page.country }} </td>
