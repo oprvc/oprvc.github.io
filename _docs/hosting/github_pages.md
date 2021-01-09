@@ -7,10 +7,11 @@ address1: 88 Colin P Kelly Jr St
 adress2: San Francisco, CA 94107
 country: USA
 ---
-**{{ page.vendor_name }}**  
-{{ page.address1 }}  
-{{ page.address2 }}  
-{{ page.country }}
+| **{{ page.vendor_name }}** |   |   |   |   |
+|----------------------------|---|---|---|---|
+| {{ page.address1 }}        |   |   |   |   |
+| {{ page.address2 }}        |   |   |   |   |
+| {{ page.country }}         |   |   |   |   |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
