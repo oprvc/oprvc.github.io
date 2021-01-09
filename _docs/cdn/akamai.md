@@ -2,6 +2,15 @@
 title: Akamai
 subtitle: Informationen über Akamai
 tags: [cdn]
+vendorname: Akamai Technologies, Inc.
+addressline1: 145 Broadway
+addressline2: Cambridge, MA 02142
+country: USA
+ppurl: https://www.akamai.com/de/de/privacy-policies/
+dpaurl: https://www.akamai.com/uk/en/multimedia/documents/akamai/akamai-data-protection-addendum.pdf
+sccurl: https://www.akamai.com/uk/en/multimedia/documents/akamai/akamai-pre-signed-eu-standard-contractual-clauses.pdf
+privacyemail: privacy@akamai.com
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
