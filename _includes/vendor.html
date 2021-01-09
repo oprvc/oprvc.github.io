@@ -31,7 +31,11 @@
     </tr>
     <tr>
       <td></td>
-      <td><a href="mailto:{{ page.privacyemail }}">{{ page.privacyemail }}</a></td>
+      <td>
+        {% if page.dpaurl %}
+          <a href="mailto:{{ page.privacyemail }}">{{ page.privacyemail }}</a>
+        {% endif %}
+      </td>
     </tr>
   </tbody>
 </table>
