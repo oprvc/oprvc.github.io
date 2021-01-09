@@ -104,12 +104,7 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: all
   comments: ["<!-- ", " -->"]
-  endings: all
-  blanklines: false
-  profile: true
-  startings: [html, head, body]
 
 collections:
   docs:
