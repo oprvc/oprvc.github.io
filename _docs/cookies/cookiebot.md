@@ -2,6 +2,15 @@
 title: Cookiebot
 subtitle: Informationen über Cookiebot
 tags: [cookies]
+vendorname: Cybot A/S
+addressline1: Havnegade 39
+addressline2: 1058 Kopenhagen
+country: Dänemark
+ppurl: https://www.cookiebot.com/de/privacy-policy/
+dpaurl: 
+sccurl: 
+privacyemail: mail@cookiebot.com
+flag: eu
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
