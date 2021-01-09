@@ -678,8 +678,38 @@
         margin-bottom: $global-margin;
     }
 
-    #search-hero-results, #search-navbar-results {
+    #search-navbar-results {
         margin: 10px 0 0 50%;
+        box-shadow: $global-medium-box-shadow;
+        border-radius: $border-radius-medium;
+        background: #fff;
+        li {
+            margin: 0;
+            line-height: 1.4;
+            border-left: solid 1px $border-xlight;
+            border-right: solid 1px $border-xlight;
+            &:first-child {
+                border-top-left-radius: $border-radius-medium;
+                border-top-right-radius: $border-radius-medium;
+                border-top: solid 1px $border-xlight;
+            }
+            &:last-child {
+                border-bottom-left-radius: $border-radius-medium;
+                border-bottom-right-radius: $border-radius-medium;
+                border-bottom: solid 1px $border-xlight;
+            }
+            a {
+                display: block;
+                &:hover {
+                    text-decoration: none;
+                }
+    
+            }
+        }
+    }
+
+    #search-hero-results {
+        margin: 10px 0 0 0;
         box-shadow: $global-medium-box-shadow;
         border-radius: $border-radius-medium;
         background: #fff;
