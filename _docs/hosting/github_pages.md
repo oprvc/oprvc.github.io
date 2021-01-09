@@ -8,9 +8,9 @@ adress2: San Francisco, CA 94107
 country: USA
 ---
 {{ page.vendor_name }}
-{{ address1 }}
-{{ address2 }}
-{{ country }}
+{{ page.address1 }}
+{{ page.address2 }}
+{{ page.country }}
 
 ### Inhaltsverzeichnis
 {:.no_toc}
