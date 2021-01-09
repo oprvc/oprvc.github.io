@@ -6,7 +6,9 @@ vendorname: GitHub Inc.
 addressline1: 88 Colin P Kelly Jr St
 addressline2: San Francisco, CA 94107
 country: USA
-privacypolicyurl: https://www.link.de
+ppurl: https://www.link.de
+dpaurl: https://www.link.de
+sscurl: https://www.link.de
 flag: us
 ---
 | **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.flag }}" width="150"/>|
