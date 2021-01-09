@@ -7,7 +7,7 @@ address1: 88 Colin P Kelly Jr St
 address2: San Francisco, CA 94107
 country: USA
 privacypolicy_link: test.de <img src="/uploads/flags/us.svg" alt="USA" width="200"/>
-flag: us
+flag: eu
 ---
 | **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.country }}" width="150"/>|
 |----------------------------|--------------------------------------------------------|
