@@ -6,13 +6,13 @@ vendor_name: GitHub Inc.
 address1: 88 Colin P Kelly Jr St
 address2: San Francisco, CA 94107
 country: USA
-privacypolicy_link: https://test.de
+privacypolicy_link: test.de
 ---
-| **{{ page.vendor_name }}** |                                                |![USA](/uploads/flags/us.svg)|
-|----------------------------|------------------------------------------------|-----------------------------|
-| {{ page.address1 }}        |[Datenschutzerklärung]({{ page.address1 }})     |                             |
-| {{ page.address2 }}        |                                                |                             |
-| {{ page.country }}         |                                                |                             |
+| **{{ page.vendor_name }}** |                                                        |![USA](/uploads/flags/us.svg)|
+|----------------------------|--------------------------------------------------------|-----------------------------|
+| {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                             |
+| {{ page.address2 }}        |                                                        |                             |
+| {{ page.country }}         |                                                        |                             |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
