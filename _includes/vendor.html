@@ -16,7 +16,7 @@
         <td>
           {% if page.dpaurl %}
           <a href="{{ page.dpaurl }}">DPA</a>
-          {% else %}
+          {% elseif {{ page.privacyemail }} %}
           <a href="mailto:{{ page.privacyemail }}">{{ page.privacyemail }}</a>
           {% endif %}
         </td>
