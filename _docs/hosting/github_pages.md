@@ -2,7 +2,7 @@
 title: GitHub Pages
 subtitle: Informationen zum Hosting mit GitHub Pages
 tags: [hosting]
-vendor_name: GitHub Inc.
+vendorname: GitHub Inc.
 addressline1: 88 Colin P Kelly Jr St
 addressline2: San Francisco, CA 94107
 country: USA
