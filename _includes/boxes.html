@@ -25,7 +25,7 @@
         {% for item in site.data.navigation_boxes %}
             {% if item.title %}
             {% assign doc_url = item.doc | prepend:"/docs/" | append:"/" %}
-            {% assign doc = site.docs | where:"url", doc_url | first %}
+            <!-- {% assign doc = site.docs | where:"url", doc_url | first %} -->
             <div>
                 <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="{{ doc.url | relative_url }}"></a>
