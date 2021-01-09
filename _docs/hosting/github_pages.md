@@ -3,8 +3,8 @@ title: GitHub Pages
 subtitle: Informationen zum Hosting mit GitHub Pages
 tags: [hosting]
 vendor_name: GitHub Inc.
-address1: 88 Colin P Kelly Jr St
-address2: San Francisco, CA 94107
+addressline1: 88 Colin P Kelly Jr St
+addressline2: San Francisco, CA 94107
 country: USA
 privacypolicyurl: https://www.link.de
 flag: us
