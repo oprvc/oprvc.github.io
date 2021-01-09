@@ -23,9 +23,11 @@
     </tr>
     <tr>
       <td>{{ page.country }} </td>
-      {% if page.sccurl %}
-        <td><a href="{{ page.sccurl }}">SSC</a></td>
-      {% endif %}
+        <td>
+          {% if page.sccurl %}
+          <a href="{{ page.sccurl }}">SSC</a>
+          {% endif %}
+        </td>
     </tr>
     <tr>
       <td></td>
