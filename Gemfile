@@ -32,9 +32,6 @@ end
 # Sitemap
 gem 'jekyll-sitemap'
 
-# Minifier  
-gem 'jekyll-minifier'
-
 # External Links
 gem 'jekyll-target-blank'
 
