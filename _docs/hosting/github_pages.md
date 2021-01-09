@@ -9,7 +9,7 @@ vendor_name: Test
 * TOC
 {:toc}
 
-## {{ vendor_name }}
+{{ vendor_name }}
 ### Muster Datenschutzerklärung
 **Hosting**  
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
