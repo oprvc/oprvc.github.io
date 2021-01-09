@@ -11,8 +11,8 @@ privacypolicy_link: test.de <img src="/uploads/flags/us.svg" alt="USA" width="20
 | **{{ page.vendor_name }}** |                                                        |<img src="/uploads/flags/us.svg" alt="USA" width="150"/>|
 |----------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|                                                        |
-| {{ page.address2 }}        |                                                        |                                                        |
-| {{ page.country }}         |                                                        |                                                        |
+| {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
+| {{ page.country }}         |[DPA](https://{{ privacypolicy_link }})                 |                                                        |
 
 ### Inhaltsverzeichnis
 {:.no_toc}
