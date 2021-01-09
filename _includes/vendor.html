@@ -12,13 +12,19 @@
     </tr>
     <tr>
       <td>{{ page.addressline2 }}</td>
-      {% if page.dpaurl %}
-      <td><a href="{{ page.dpaurl }}">DPA</a></td>
-      {% endif %}
+      
+        <td>
+          {% if page.dpaurl %}
+          <a href="{{ page.dpaurl }}">DPA
+          {% endif %}
+          </a>
+        </td>
     </tr>
     <tr>
       <td>{{ page.country }} </td>
-      <td><a href="{{ page.sccurl }}">SSC</a></td>
+      {% if page.sccurl %}
+        <td><a href="{{ page.sccurl }}">SSC</a></td>
+      {% endif %}
     </tr>
     <tr>
       <td></td>
