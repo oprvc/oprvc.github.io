@@ -18,8 +18,7 @@ flag: eu
 {:toc}
 
 ### Mustertext Datenschutzerklärung
-Sofortüberweisung
-
+**Sofortüberweisung**  
 Wir bieten die Möglichkeit, den Zahlungsvorgang über Sofortüberweisung des Zahlungsdienstleister Klarna GmbH, Theresienhöhe 12, 80339 München, Deutschland (Klarna) abzuwickeln. Dies entspricht unserem berechtigten Interesse, eine effiziente und sichere Zahlungsmethode anzubieten (Art. 6 Abs. 1 lit. f DSGVO). In dem Zusammenhang geben wir folgende Daten an Klarna weiter, soweit es für die Vertragserfüllung erforderlich ist (Art. 6 Abs. 1 lit b. DSGVO).
 
 [Vorname]  
