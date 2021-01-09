@@ -2,14 +2,21 @@
 title: GitHub Pages
 subtitle: Informationen zum Hosting mit GitHub Pages
 tags: [hosting]
-vendor_name: Test
+vendor_name: GitHub Inc.
+address1: 88 Colin P Kelly Jr St
+adress2: San Francisco, CA 94107
+country: USA
 ---
+{{ page.vendor_name }}
+{{ address1 }}
+{{ address2 }}
+{{ country }}
+
 ### Inhaltsverzeichnis
 {:.no_toc}
 * TOC
 {:toc}
 
-{{ page.vendor_name }}
 ### Muster Datenschutzerklärung
 **Hosting**  
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
