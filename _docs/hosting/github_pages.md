@@ -9,11 +9,11 @@ country: USA
 privacypolicy_link: test.de <img src="/uploads/flags/us.svg" alt="USA" width="200"/>
 flag: us
 ---
-| **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.country }}" width="150"/>|
+| **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.flag }}" width="150"/>|
 |----------------------------|--------------------------------------------------------|
 | {{ page.address1 }}        |[Datenschutzerklärung](https://{{ privacypolicy_link }})|
 | {{ page.address2 }}        |[DPA](https://{{ privacypolicy_link }})                 |
-| {{ page.country }}         |[DPA](https://{{ privacypolicy_link }})                 |
+| {{ page.country }}         |[SSC](https://{{ privacypolicy_link }})                 |
 |                            |[support@github.com](mailto:support@github.com)         |
 
 ### Inhaltsverzeichnis
