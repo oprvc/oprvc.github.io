@@ -9,6 +9,7 @@ country: USA
 ppurl: https://www.link.de
 dpaurl: https://www.link.de
 sscurl: https://www.link.de
+privacyemail: support@github.com
 flag: us
 ---
 | **{{ page.vendor_name }}** |<img src="/uploads/flags/{{ page.flag }}.svg" alt="{{ page.flag }}" width="150"/>|
