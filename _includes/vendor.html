@@ -33,9 +33,7 @@
       <td></td>
       <td>
         {% if page.dpaurl %}
-          {% if page.privacyemail == %}
-          <a>N.A.</a>
-          { else }
+          {% if page.privacyemail != %}
             <a href="mailto:{{ page.privacyemail }}">{{ page.privacyemail }}</a>
           {% endif %}
         {% endif %}
@@ -43,3 +41,4 @@
     </tr>
   </tbody>
 </table>
+
