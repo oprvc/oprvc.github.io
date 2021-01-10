@@ -2,15 +2,15 @@
 title: Borlabs Cookie
 subtitle: Informationen über Borlabs Cookie
 tags: [cookies]
-vendorname: Cybot A/S
-addressline1: Havnegade 39
-addressline2: 1058 Kopenhagen
-country: Dänemark
-ppurl: https://www.cookiebot.com/de/privacy-policy/
-dpaurl: 
-sccurl: 
-privacyemail: mail@cookiebot.com
-flag: eu
+vendorname: Borlabs - Benjamin A. Bornschein
+addressline1: Rübenkamp 32
+addressline2: 22305 Hamburg
+country: Deutschland
+ppurl:
+dpaurl:
+sccurl:
+privacyemail:
+flag: nt
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
