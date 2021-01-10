@@ -2,6 +2,15 @@
 title: Yoast SEO Wordpress Plugin
 subtitle: Informationen über Yoast SEO Wordpress Plugin
 tags: [seo]
+vendorname: Yoast BV
+addressline1: Don Emanuelstraat 3
+addressline2: 6602 GX Wijchen
+country: Niederlande
+ppurl: https://yoast.com/privacy-policy/
+dpaurl:
+sccurl:
+privacyemail: support@yoast.com
+flag: nt
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
