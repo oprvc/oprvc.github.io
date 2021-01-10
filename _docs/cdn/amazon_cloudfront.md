@@ -2,6 +2,15 @@
 title: Amazon Cloudfront
 subtitle: Informationen über Amazon Cloudfront
 tags: [cdn]
+vendorname: Amazon Web Services, Inc.
+addressline1: 410 Terry Avenue North
+addressline2: Seattle WA 98109
+country: USA
+ppurl: https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_German_2020-08-15.pdf
+dpaurl: https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf
+sccurl: https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf
+privacyemail:
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
