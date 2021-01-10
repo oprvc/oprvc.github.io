@@ -35,5 +35,7 @@ flag: us //
 
 ### Technische Hinweise               // ### Hauptüberschrift
 #### Unterüberschrift                 // #### Unterüberschrift außerhalb Muster
-### Recch
+### Rechtliche Hinweise               // ### Hauptüberschrift
+
+Bitte beachte, dass Umbrüche <br>, durch zwei Leerzeichen erzeugt werden. **Überschrift**  < 2 Leerzeichen
 ```
