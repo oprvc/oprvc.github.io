@@ -2,6 +2,15 @@
 title: Google Fonts
 subtitle: Informationen über Google Fonts
 tags: [fonts]
+vendorname: Amazon Web Services, Inc.
+addressline1: 1600 Amphitheatre Parkway
+addressline2: Mountain View CA 94043
+country: USA
+ppurl: https://policies.google.com/privacy
+dpaurl: 
+sccurl: https://policies.google.com/privacy/frameworks
+privacyemail: support-deutschland@google.com
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
