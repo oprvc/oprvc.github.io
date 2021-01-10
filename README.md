@@ -19,8 +19,8 @@ addressline1:                         // Adresse (Zeile 1) des Herstellers
 addressline2:                         // Adresse (Zeile 1) des Herstellers
 country:                              // Land
 ppurl:                                // URL Datenschutzerklärung (https://...)
-dpaurl:                               // URL DPA (https://...)
-sccurl:                               // URL SCC (https://...)
+dpaurl:                               // (optional) URL DPA (https://...)
+sccurl:                               // (optional) URL SCC (https://...)
 privacyemail: privacy@akamai.com
 flag: us                              // derzeit nur eu/us
 ---
