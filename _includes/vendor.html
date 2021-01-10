@@ -8,7 +8,11 @@
   <tbody>
     <tr>
       <td>{{ page.addressline1 }}</td>
-      <td><a href="{{ page.ppurl }}" rel="nofollow">Datenschutzerklärung</a> </td>
+      <td>
+        {% if page.ppurl != %}
+          <a href="{{ page.ppurl }}" rel="nofollow">Datenschutzerklärung</a>
+        {% endif %}
+      </td>
     </tr>
     <tr>
       <td>{{ page.addressline2 }}</td>
