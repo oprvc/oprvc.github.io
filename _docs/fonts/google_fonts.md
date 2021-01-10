@@ -2,7 +2,7 @@
 title: Google Fonts
 subtitle: Informationen über Google Fonts
 tags: [fonts]
-vendorname: Amazon Web Services, Inc.
+vendorname: Google LLC
 addressline1: 1600 Amphitheatre Parkway
 addressline2: Mountain View CA 94043
 country: USA
