@@ -6,7 +6,7 @@ vendorname: Yoast BV
 addressline1: Don Emanuelstraat 3
 addressline2: 6602 GX Wijchen
 country: Niederlande
-ppurl: https://yoast.com/privacy-policy/
+ppurl:
 dpaurl:
 sccurl:
 privacyemail: support@yoast.com
