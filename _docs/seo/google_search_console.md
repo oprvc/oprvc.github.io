@@ -2,6 +2,15 @@
 title: Google Search Console
 subtitle: Informationen über Google Search Console (ehemals Google Webmaster Tools)
 tags: [seo]
+vendorname: Google LLC
+addressline1: 1600 Amphitheatre Parkway
+addressline2: Mountain View CA 94043
+country: USA
+ppurl: https://policies.google.com/privacy
+dpaurl: 
+sccurl: https://policies.google.com/privacy/frameworks
+privacyemail: support-deutschland@google.com
+flag: nt
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
