@@ -2,6 +2,15 @@
 title: WPML WordPress Plugin
 subtitle: Informationen über WPML WordPress Plugin
 tags: [multilingual]
+vendorname: OnTheGoSystems Limited
+addressline1: 88 Colin P Kelly Jr St
+addressline2: Wanchai
+country: Hong Kong
+ppurl: https://wpml.org/de/documentation-3/privacy-policy-and-gdpr-compliance/#data-collected-by-the-wpml-plugin-and-add-ons-you-use
+dpaurl:
+sccurl: 
+privacyemail:
+flag: nt
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
