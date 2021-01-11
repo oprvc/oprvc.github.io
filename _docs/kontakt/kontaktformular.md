@@ -1,7 +1,7 @@
 ---
 title: Kontaktforumlar
 subtitle: Informationen über Kontaktformulare
-tags: [kontakt]
+tags: [contact]
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}

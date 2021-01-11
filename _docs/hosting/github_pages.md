@@ -12,7 +12,6 @@ sccurl: https://docs.github.com/en/free-pro-team@latest/github/site-policy/githu
 privacyemail: support@github.com
 flag: us
 ---
-
 ### Inhaltsverzeichnis
 {:.no_toc}
 * TOC
