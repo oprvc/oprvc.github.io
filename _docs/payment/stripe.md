@@ -2,6 +2,15 @@
 title: Stripe
 subtitle: Informationen über Stripe
 tags: [payment]
+vendorname: Stripe, Inc.
+addressline1: 510,Townsend St.
+addressline2: an Francisco, CA 94103
+country: USA
+ppurl: https://stripe.com/privacy-center/legal
+dpaurl: https://stripe.com/privacy-center/legal
+sccurl: https://stripe.com/privacy-center/legal
+privacyemail: privacy@stripe.com
+flag: us
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
