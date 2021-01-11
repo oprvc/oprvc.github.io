@@ -24,7 +24,6 @@ sccurl:                               // (optional) URL SCC (https://...)
 privacyemail: privacy@akamai.com
 flag: us                              // derzeit nur eu/us
 ---
-
 ### Inhaltsverzeichnis
 {:.no_toc}
 * TOC
