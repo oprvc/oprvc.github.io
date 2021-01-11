@@ -22,7 +22,7 @@ ppurl:                                // URL Datenschutzerklärung (https://...)
 dpaurl:                               // (optional) URL DPA (https://...)
 sccurl:                               // (optional) URL SCC (https://...)
 privacyemail: privacy@akamai.com
-flag: us                              // derzeit nur eu/us
+flag: us                              // derzeit nur eu/us/nt (no transfer)
 ---
 ### Inhaltsverzeichnis
 {:.no_toc}
