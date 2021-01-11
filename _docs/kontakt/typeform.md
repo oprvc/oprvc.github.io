@@ -1,5 +1,5 @@
 ---
-title: TYPEFORM SL
+title: Typeform
 subtitle: Informationen zu Typeform
 tags: [contact]
 vendorname: TYPEFORM SL
