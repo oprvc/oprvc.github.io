@@ -15,6 +15,9 @@
   - cookies/cookiebot
   - cookies/usercentrics
 
+- title: Event Management
+  - eventmanagement/doo
+
 - title: Fonts
   docs:
   - fonts/google_fonts
