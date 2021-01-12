@@ -16,6 +16,7 @@
   - cookies/usercentrics
 
 - title: Event Management
+  docs:
   - eventmanagement/doo
 
 - title: Fonts
