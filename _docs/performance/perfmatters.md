@@ -12,13 +12,10 @@ sccurl:
 privacyemail:
 flag: nt
 ---
-
 ### Inhaltsverzeichnis
-
 {:.no_toc}
-
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ### Technische Hinweise
 
