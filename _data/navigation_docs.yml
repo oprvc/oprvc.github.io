@@ -1,54 +1,58 @@
 - title: Datenschutzerklärung
   docs:
-  - allgemein/dse_einleitung
+    - allgemein/dse_einleitung
 
 - title: Content Delivery Network
   docs:
-  - cdn/akamai
-  - cdn/amazon_cloudfront
-  - cdn/cloudflare
+    - cdn/akamai
+    - cdn/amazon_cloudfront
+    - cdn/cloudflare
 
 - title: Cookie Consent Management
   docs:
-  - cookies/cookies_allgemein
-  - cookies/borlabs_cookie
-  - cookies/cookiebot
-  - cookies/usercentrics
+    - cookies/cookies_allgemein
+    - cookies/borlabs_cookie
+    - cookies/cookiebot
+    - cookies/usercentrics
 
 - title: Event Management
   docs:
-  - eventmanagement/doo
+    - eventmanagement/doo
 
 - title: Fonts
   docs:
-  - fonts/google_fonts
+    - fonts/google_fonts
 
 - title: Hosting
   docs:
-  - hosting/hosting_allgemein
-  - hosting/github_pages
+    - hosting/hosting_allgemein
+    - hosting/github_pages
 
 - title: Kontakt
   docs:
-  - kontakt/kontaktformular
-  - kontakt/typeform
+    - kontakt/kontaktformular
+    - kontakt/typeform
 
 - title: Mehrsprachigkeit
   docs:
-  - multilingual/wpml_wordpress_plugin
+    - multilingual/wpml_wordpress_plugin
 
 - title: Newsletter
   docs:
-  - newsletter/mailchimp
+    - newsletter/mailchimp
+
+- title: Performance
+  docs:
+    - performance/perfmatters
 
 - title: SEO
   docs:
-  - seo/google_search_console
-  - seo/yoast_seo_wordpress
+    - seo/google_search_console
+    - seo/yoast_seo_wordpress
 
 - title: Zahlungsdienstleister
   docs:
-  - payment/amazon_pay
-  - payment/paypal
-  - payment/sofortueberweisung
-  - payment/stripe
+    - payment/amazon_pay
+    - payment/paypal
+    - payment/sofortueberweisung
+    - payment/stripe
