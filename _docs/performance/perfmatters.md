@@ -1,6 +1,6 @@
 ---
-title: Stripe
-subtitle: Informationen über Stripe
+title: perfmatters
+subtitle: Informationen über perfmatters
 tags: [performance]
 vendorname: forgemedia LLC
 addressline1:
@@ -9,7 +9,7 @@ country:
 ppurl:
 dpaurl:
 sccurl:
-privacyemail: privacy@stripe.com
+privacyemail:
 flag: nt
 ---
 
