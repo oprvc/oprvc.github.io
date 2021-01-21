@@ -44,7 +44,7 @@ Stripe hat Compliance-Maßnahmen für internationale Datenübermittlungen umgese
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Stripe finden Sie unter: [https://stripe.com/privacy-center/legal](https://stripe.com/privacy-center/legal)
 
-Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
+Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257 HGB] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
 
 ### Rechtliche Hinweise
 #### Adresse

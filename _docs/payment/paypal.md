@@ -24,7 +24,7 @@ PayPal führt bei verschiedenen Diensten wie Zahlung per Lastschrift eine Bonit�
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber PayPal finden Sie unter: [https://www.paypal.com/de/webapps/mpp/ua/privacy-full](https://www.paypal.com/de/webapps/mpp/ua/privacy-full)
 
-Ihre Daten werden bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
+Ihre Daten werden bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257 HGB] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
 
 ### Technische Hinweise
 Es sollte überprüft werden, ob Logfiles von PayPal-Ereignissen angelegt werden, die eventuell personenbezogene Daten im Klartext enthalten können.

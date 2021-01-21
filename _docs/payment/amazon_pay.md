@@ -25,4 +25,4 @@ Amazon Payments Europe behält sich das Recht vor eine Bonitätsauskunft durchzu
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Amazon Payments Europe finden Sie unter: [https://pay.amazon.de/help/201212490](https://pay.amazon.de/help/201212490).
 
-Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
+Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257 HGB] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]

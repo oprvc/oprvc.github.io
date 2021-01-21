@@ -42,3 +42,5 @@ Wir haben auf diesen Prozess keinen Einfluss und erhalten lediglich das Ergebnis
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Klarna finden Sie unter: [https://www.sofort.com/payment/wizard/getCmsContent/data_protection/DE/0/de](https://www.sofort.com/payment/wizard/getCmsContent/data_protection/DE/0/de)
 
 Klarna speichert zu Abrechnungszwecken Ihren Namen, Kontonummer, Bankleitzahl, Betreff, Datum und Überweisungsbetrag innerhalb der gesetzlichen Aufbewahrungsfristen. Grundlage hierfür ist § 28 Abs. 1. Satz 1 Nr. 1. BDSG.
+
+Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. Dazu zählt auch der Zeitraum der für die Bearbeitung von Rückerstattungen, Forderungsmanagement und Betrugsprävention erforderlich ist. [Für uns gilt gemäß [§ 147 AO / § 257 HGB] eine gesetzliche Aufbewahrungsfrist von [X] Jahren für folgende Dokumente: [ ]]
