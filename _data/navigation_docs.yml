@@ -27,6 +27,7 @@
   docs:
     - hosting/hosting_allgemein
     - hosting/github_pages
+    - hosting/kinsta
 
 - title: Kontakt
   docs:
