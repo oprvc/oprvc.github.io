@@ -13,7 +13,7 @@ lang: de
 baseurl: ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink: /:title/
+permalink: /:slug/
 
 # Site base hostname & protocol, e.g. http://example.com
 url: "https://opr.vc"
