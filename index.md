@@ -6,7 +6,7 @@ hero:
   subtitle: Textbausteine für deine Datenschutzerklärung und unabhängige Hintergrundinformationen
   image: oprvc_logo.png
   search: true
-description: Test description
+description: Kostenlose Open Source Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 ---
 
 {% include boxes.html columns="3" title="Gemeinsam für mehr Datenschutz" subtitle="Was wir für dich tun können. Was du für alle tun kannst." %}
