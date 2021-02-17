@@ -1,6 +1,7 @@
 ---
 title: Amazon Cloudfront
 subtitle: Informationen über Amazon Cloudfront
+description: Amazon Cloudfront - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cdn]
 vendorname: Amazon Web Services, Inc.
 addressline1: 410 Terry Avenue North

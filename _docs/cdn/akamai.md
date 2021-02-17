@@ -1,6 +1,7 @@
 ---
 title: Akamai
 subtitle: Informationen über Akamai
+description: Akamai - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cdn]
 vendorname: Akamai Technologies, Inc.
 addressline1: 145 Broadway

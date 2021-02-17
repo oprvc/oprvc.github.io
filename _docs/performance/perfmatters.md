@@ -1,6 +1,7 @@
 ---
 title: perfmatters
 subtitle: Informationen über perfmatters
+description: perfmatters - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [performance]
 vendorname: forgemedia LLC
 addressline1:

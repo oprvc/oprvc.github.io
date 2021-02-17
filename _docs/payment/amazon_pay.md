@@ -1,6 +1,7 @@
 ---
 title: Amazon Pay
 subtitle: Informationen über Amazon Pay
+description: Amazon Pay - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [payment]
 ---
 ### Inhaltsverzeichnis

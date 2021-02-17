@@ -1,6 +1,7 @@
 ---
 title: Usercentrics
 subtitle: Informationen über Usercentrics
+description: Usercentrics - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cookies]
 vendorname: Usercentrics GmbH
 addressline1: Sendlinger Straße 7

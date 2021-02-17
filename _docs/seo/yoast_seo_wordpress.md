@@ -1,6 +1,7 @@
 ---
 title: Yoast SEO Wordpress Plugin
 subtitle: Informationen über Yoast SEO Wordpress Plugin
+description: Yoast SEO - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [seo]
 vendorname: Yoast BV
 addressline1: Don Emanuelstraat 3

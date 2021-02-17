@@ -1,6 +1,7 @@
 ---
 title: Borlabs Cookie
 subtitle: Informationen über Borlabs Cookie
+description: Borlabs Cookie - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cookies]
 vendorname: Borlabs - Benjamin A. Bornschein
 addressline1: Rübenkamp 32

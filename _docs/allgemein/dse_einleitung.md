@@ -1,6 +1,7 @@
 ---
 title: Einleitung
 subtitle: Einleitungstext und allgemeine Informationen für Datenschutzerklärungen
+description: Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [allgemein]
 ---
 ### Inhaltsverzeichnis

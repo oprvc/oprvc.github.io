@@ -1,6 +1,7 @@
 ---
 title: GitHub Pages
 subtitle: Informationen zum Hosting mit GitHub Pages
+description: GitHub Pages - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [hosting]
 vendorname: GitHub Inc.
 addressline1: 88 Colin P Kelly Jr St

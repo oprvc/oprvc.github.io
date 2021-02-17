@@ -1,6 +1,7 @@
 ---
 title: Kinsta
 subtitle: Informationen zum Hosting mit Kinsta
+description: Kinsta - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [hosting,cdn]
 vendorname: Kinsta Inc.
 addressline1: 8605 Santa Monica Blvd #92581

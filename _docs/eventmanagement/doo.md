@@ -1,6 +1,7 @@
 ---
 title: doo
 subtitle: Informationen über doo
+description: doo - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [eventmanagement]
 vendorname: doo GmbH
 addressline1: Hultschiner Straße 8

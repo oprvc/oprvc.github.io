@@ -1,6 +1,7 @@
 ---
 title: Typeform
 subtitle: Informationen zu Typeform
+description: Typeform - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [contact]
 vendorname: TYPEFORM SL
 addressline1: C/Bac de Roda, 163 (Local)

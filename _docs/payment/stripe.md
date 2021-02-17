@@ -1,6 +1,7 @@
 ---
 title: Stripe
 subtitle: Informationen über Stripe
+description: Stripe - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [payment]
 vendorname: Stripe, Inc.
 addressline1: 510,Townsend St.

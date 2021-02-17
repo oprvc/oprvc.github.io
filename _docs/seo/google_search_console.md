@@ -1,6 +1,7 @@
 ---
 title: Google Search Console
 subtitle: Informationen über Google Search Console (ehemals Google Webmaster Tools)
+description: Google Search Console - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [seo]
 vendorname: Google LLC
 addressline1: 1600 Amphitheatre Parkway

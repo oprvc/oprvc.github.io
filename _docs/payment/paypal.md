@@ -1,6 +1,7 @@
 ---
 title: PayPal
 subtitle: Informationen über PayPal
+description: PayPal - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [payment]
 ---
 ### Inhaltsverzeichnis

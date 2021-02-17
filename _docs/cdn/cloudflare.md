@@ -1,6 +1,7 @@
 ---
 title: Cloudflare
 subtitle: Informationen über Cloudflare
+description: Cloudflare - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cdn]
 vendorname: Cloudflare, Inc.
 addressline1: 101 Townsend St

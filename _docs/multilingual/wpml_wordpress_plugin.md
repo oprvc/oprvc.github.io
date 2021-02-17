@@ -1,6 +1,7 @@
 ---
 title: WPML WordPress Plugin
 subtitle: Informationen über WPML WordPress Plugin
+description: WPML Wordpress Plugin - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [multilingual]
 vendorname: OnTheGoSystems Limited
 addressline1: 88 Colin P Kelly Jr St

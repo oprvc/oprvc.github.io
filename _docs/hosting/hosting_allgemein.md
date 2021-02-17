@@ -1,6 +1,7 @@
 ---
 title: Hosting
 subtitle: Allgemeine Informationen zum Hosting inkl. Muster für deine Datenschutzerklärung
+description: Hosting - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [hosting]
 ---
 ### Inhaltsverzeichnis

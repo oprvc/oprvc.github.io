@@ -1,6 +1,7 @@
 ---
 title: Cookies
 subtitle: Allgemeine Informationen über Cookies
+description: Cookies - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cookies]
 ---
 ### Inhaltsverzeichnis

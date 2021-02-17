@@ -1,6 +1,7 @@
 ---
 title: Sofortüberweisung
 subtitle: Informationen über Sofortüberweisung
+description: Sofortüberweisung - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [payment]
 vendorname: Klarna Bank AB (publ)
 addressline1: Sveavägen 46

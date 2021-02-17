@@ -1,6 +1,7 @@
 ---
 title: Kontaktforumlar
 subtitle: Informationen über Kontaktformulare
+description: Kontaktformular - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [contact]
 ---
 ### Inhaltsverzeichnis

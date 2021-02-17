@@ -1,6 +1,7 @@
 ---
 title: Cookiebot
 subtitle: Informationen über Cookiebot
+description: Cookiebot - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cookies]
 vendorname: Cybot A/S
 addressline1: Havnegade 39

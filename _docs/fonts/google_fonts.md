@@ -1,6 +1,7 @@
 ---
 title: Google Fonts
 subtitle: Informationen über Google Fonts
+description: Google Fonts - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [fonts]
 vendorname: Google LLC
 addressline1: 1600 Amphitheatre Parkway
