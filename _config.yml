@@ -94,6 +94,7 @@ gems:
   - jekyll-sitemap
   - jekyll-extlinks
   - jekyll-target-blank
+
   plugins:
   - jekyll-seo-tag
   
