@@ -16,10 +16,11 @@ flag: us
 
 ### Inhaltsverzeichnis
 
+### Inhaltsverzeichnis
 {:.no_toc}
+* TOC
+{:toc}
 
-- TOC
-  {:toc}
 
 ### Mustertext Datenschutzerklärung
 
