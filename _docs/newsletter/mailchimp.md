@@ -1,6 +1,7 @@
 ---
 title: Mailchimp
 subtitle: Informationen über Mailchimp
+description: Mailchimp - Kostenloses Muster für deine Datenschutzerklärung
 tags: [newsletter]
 vendorname: The Rocket Science Group, LLC
 addressline1: 675 Ponce de Leon Ave NE Suite 5000
@@ -12,11 +13,16 @@ sccurl: https://mailchimp.com/legal/terms/#Rights
 privacyemail:
 flag: us
 ---
+
 ### Inhaltsverzeichnis
+
 {:.no_toc}
-* TOC
-{:toc}
+
+- TOC
+  {:toc}
+
 ### Mustertext Datenschutzerklärung
+
 **Mailchimp**  
 Wir verwenden für den Versand unseres Newsletters Mailchimp von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE Suite 5000, Atlanta, GA 30308 USA (Mailchimp). Dies ermöglicht uns, mit Abonnenten direkt in Kontakt zu treten. Zusätzlich analysieren wir Ihr Nutzungsverhalten, um unser Angebot zu optimieren.
 
@@ -35,7 +41,7 @@ Zusätzlich werden von Mailchimp folgende personenbezogene Daten mit Hilfe von C
 
 Mailchimp sammelt zusätzlich Informationen aus anderen Quellen über Sie. In einem nicht näher bestimmten Zeitraum und Umfang, werden personenbezogene Daten über soziale Medien und weiteren Drittanbietern von Daten gesammelt. Wir haben auf diesen Prozess keinen Einfluss.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Mailchimp finden Sie unter: [https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts](https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts)
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Mailchimp finden Sie unter: [https://mailchimp.com/legal/privacy/#3.\_Privacy_for_Contacts](https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts)
 
 Rechtsgrundlage für diese Verarbeitungen ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Die Einwilligung zur Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit widerrufen. In allen Aussendungen findet sich ein entsprechender Link. Außerdem kann der Widerruf über die angegebenen Kontaktmöglichkeiten erfolgen. Durch Erklärung des Widerrufs, wird die Rechtmäßigkeit, der bisher erfolgten Verarbeitung nicht berührt.
 
