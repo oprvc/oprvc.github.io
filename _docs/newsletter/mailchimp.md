@@ -1,7 +1,7 @@
 ---
 title: Mailchimp
 subtitle: Informationen über Mailchimp
-description: Mailchimp - Kostenloses Muster für deine Datenschutzerklärung
+description: Mailchimp - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [newsletter]
 vendorname: The Rocket Science Group, LLC
 addressline1: 675 Ponce de Leon Ave NE Suite 5000
