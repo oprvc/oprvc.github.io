@@ -38,7 +38,6 @@ authors:
     title: Jurist & Datenschutzbeauftragter
     avatar: sebastian_hofmann.jpg
 
-
 # Social icons displayed in footer
 social:
   email:
@@ -94,10 +93,8 @@ gems:
   - jekyll-sitemap
   - jekyll-extlinks
   - jekyll-target-blank
-
-  plugins:
   - jekyll-seo-tag
-  
+
 exclude:
   - Gemfile
   - Gemfile.lock
