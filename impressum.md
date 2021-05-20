@@ -2,15 +2,15 @@
 layout: page
 width: xsmall
 hero:
-    title: Impressum
-    search: false
+  title: Impressum
+  search: false
 ---
-  
+
 **Angaben gemäß § 5 des Telemediengesetzes​**  
 **Name des Anbieters**  
 Sebastian Hofmann  
-Salomon-Idler-Str. 30  
-86159 Augsburg
+Burgfriedenstr. 3
+86316 Friedberg
 
 **Kontaktdaten**  
 E-Mail: info@opr.vc  
