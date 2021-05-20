@@ -28,20 +28,20 @@ navbar:
 # Default author settings
 author:
   name: Sebastian Hofmann
-  title: Rechtsanwalt & Datenschutzbeauftragter [https://sebastianhofmann.legal](https://sebastianhofmann.legal)
+  title: Rechtsanwalt & Datenschutzbeauftragter
   avatar: sebastian_hofmann.jpg
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
   sebastian:
     name: Sebastian Hofmann
-    title: Rechtsanwalt & Datenschutzbeauftragter [https://sebastianhofmann.legal](https://sebastianhofmann.legal)
+    title: Rechtsanwalt & Datenschutzbeauftragter
     avatar: sebastian_hofmann.jpg
 
 # Social icons displayed in footer
 social:
   email:
-  website:
+  website: https://sebastianhofmann.legal
   facebook:
   flickr:
   dribbble:
