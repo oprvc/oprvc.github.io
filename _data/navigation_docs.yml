@@ -46,6 +46,10 @@
   docs:
     - performance/perfmatters
 
+- title: Security
+  docs:
+    - security/wp-hardening
+
 - title: SEO
   docs:
     - seo/google_search_console
