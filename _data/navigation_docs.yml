@@ -48,7 +48,7 @@
 
 - title: Security
   docs:
-    - security/wp-hardening
+    - security/wp_hardening
 
 - title: SEO
   docs:
