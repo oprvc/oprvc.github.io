@@ -49,6 +49,7 @@
 - title: Security
   docs:
     - security/wp_hardening
+    - security/duo_for_wordpress
 
 - title: SEO
   docs:
