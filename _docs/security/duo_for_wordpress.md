@@ -10,7 +10,7 @@ country: USA
 ppurl: https://trustportal.cisco.com/c/dam/r/ctp/docs/privacydatasheet/security/cisco-duo-privacy-data-sheet.pdf
 dpaurl: https://www.cisco.com/c/en/us/about/legal/privacy.html
 sccurl:
-privacyemail: privacy@getastra.com
+privacyemail: privacy@cisco.com
 flag: nt
 ---
 ### Inhaltsverzeichnis
