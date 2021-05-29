@@ -56,6 +56,10 @@
     - seo/google_search_console
     - seo/yoast_seo_wordpress
 
+- title: Tracking
+  docs:
+    - tracking/vg_wort_metis
+
 - title: Zahlungsdienstleister
   docs:
     - payment/amazon_pay
