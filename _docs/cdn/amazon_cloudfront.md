@@ -7,7 +7,7 @@ vendorname: Amazon Web Services, Inc.
 addressline1: 410 Terry Avenue North
 addressline2: Seattle WA 98109
 country: USA
-ppurl: https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_German_2020-08-15.pdf
+ppurl: https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice__German_Translation.pdf
 dpaurl: https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf
 sccurl: https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf
 privacyemail:
@@ -30,6 +30,6 @@ Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzli
 
 Ihre personenbezogenen Daten werden von AWS so lange gespeichert, wie es für die beschriebenen Zwecke erforderlich ist. [Wir löschen die gespeicherten Logfiles nach [ ] ].
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber AWS finden Sie unter: [https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_German_2020-08-15.pdf](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_German_2020-08-15.pdf)
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber AWS finden Sie unter: [https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice__German_Translation.pdf](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice__German_Translation.pdf)
 
 AWS hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen AWS personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf)
