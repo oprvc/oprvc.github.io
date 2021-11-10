@@ -49,4 +49,6 @@ Ihre Daten werden von uns bis zum Abschluss der Zahlungsabwicklung gespeichert. 
 
 ### Rechtliche Hinweise
 #### Adresse
-Auch auf Nachfrage, hat Stripe keine Adresse innerhalb der EU angegeben, sondern auf die o.g. Adresse in den USA verwiesen.
+Stripe Payments Europe Limited
+1 Grand Canal Street Lower, Grand Canal Dock, Dublin, D02 H210, Ireland
+Attention: Stripe Legal
