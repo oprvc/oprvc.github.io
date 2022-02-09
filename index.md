@@ -20,6 +20,6 @@ description: Kostenlose Open Source Muster für deine Datenschutzerklärung inkl
 
 {% include faqs.html multiple="true" title="Häufig gestellte Fragen" category="frontpage" subtitle="Antworten auf deine Fragen" %}
 
-{% include team.html authors="eddy sebastian" title="Wer steckt hinter opr.vc?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
+{% include team.html authors="eddy" title="Wer steckt hinter opr.vc?" subtitle="Wir haben immer einen Platz für dich und deine Ideen" %}
 
 {% include cta.html title="Wir sind für dich da" button_text="Kontakt" button_url="/kontakt/" subtitle="Schicke uns einfach eine Nachricht" %}
