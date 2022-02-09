@@ -33,6 +33,9 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
+  eddy:
+    name: Eddy der InfoSec Frosch
+    tile: CyberSecurity Awareness Podcast Host
   sebastian:
     name: Sebastian Hofmann
     title: Rechtsanwalt & Datenschutzbeauftragter
