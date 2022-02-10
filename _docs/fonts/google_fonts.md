@@ -22,6 +22,8 @@ flag: us
 #### Google Fonts über Google Server einbinden
 Grundsätzlich gilt, mit dem Aufruf der Website und dem Anfordern der Schriftart, wird die IP-Adresse des Nutzers auf Google Server außerhalb der Europäischen Union übertragen. Laut Google werden für die Erfassung unabhängige Server vorgehalten (fonts.gstatic.com und fonts.googleapis.com) und eine Zusammenführung mit Daten aus anderen Diensten fände nicht statt. Google verwendet diese Informationen jedoch für Analysezwecke und führt diese mit Daten des Webcrawlers zusammen. Cookies werden nicht gesetzt. Es werden lediglich die Schriftarten (1 Jahr) und die zugehörigen CSS-Dateien (1 Tag) auf dem Endgerät des Nutzers gespeichert. [(siehe Google Fonts API Dokumentation)](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users)
 
+Das LG München (Az.:3 O 17493/20 vom 20.01.2022) hat einen Unterlassungsanspruch und Schadensersatz wegen Weitergabe von IP-Adresse an Google durch Nutzung von Google Fonts bejaht.
+
 #### Google Fonts über Consent Management Lösung einbinden
 Es besteht die Möglichkeit, Google Fonts über ein Consent Management Tool einzubinden. Der Vorteil ist, dass man die Schriftarten nicht lokal einbinden und updaten muss, da die Auslieferung über Google erfolgt, denn technisch besteht kein Unterschied zur Einbindung über die Google Server. Es sollte sichergestellt werden, dass die Schriftarten erst nach Einwilligung des Nutzers geladen werden. Nachteil ist, dass man die Übersichtlichkeit im Rahmen der Einwilligung reduziert, und sollte diese verweigert werden, kann es zu Darstellungsproblemen kommen.
 
