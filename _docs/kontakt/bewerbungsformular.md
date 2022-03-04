@@ -34,7 +34,7 @@ Zusätzlich erheben wir:
 [Zeitpunkt der Übermittlung]
 [IP-Adresse]
 
-Alternativ können Sie uns Ihre Bewerbungsunterlagen auch unter folgender E-Mail-Adresse zukommen lassen: [E-Mail-Adresse für Bewerbungen]. In diesem Fall erheben wir Ihre E-Mailadresse und sämtliche von Ihnen übermittelten Daten.
+Alternativ können Sie uns Ihre Bewerbungsunterlagen auch unter folgender E-Mail-Adresse zukommen lassen: [E-Mail-Adresse für Bewerbungen]. In diesem Fall erheben wir Ihre E-Mail-Adresse und sämtliche von Ihnen übermittelten Daten.
 Die Daten werden ausschließlich zum Zweck der Bearbeitung Ihrer Bewerbung gespeichert.
 
 Die Rechtsgrundlage für die Verarbeitung Ihrer Daten sind vorvertragliche Maßnahmen die auf Ihrer Anfrage hin erfolgen, Art. 6 Abs. 1 S.1 lit. b Alt. 1 DSGVO und § 26 Abs. 1 S. 1 BDSG. Die Pflichtangaben dienen der Zuordnung und der Bearbeitung Ihrer Bewerbung. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit f DSGVO). 
