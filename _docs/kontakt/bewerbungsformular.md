@@ -13,18 +13,18 @@ tags: [contact]
 **Bewerbungsformular und Bewerbung per E-Mail**  
 Wir stellen Ihnen ein Bewerbungsformular zur Verfügung, dass Sie für Ihre elektronische Bewerbung nutzen können. Mit dem Forumlar eheben wir folgende personenbezogene Daten:
 
-[Anrede]
-[Name]
-[Adresse]
-[Telefonnummer]
-[Mobilfunknummer]
-[E-Mail-Adresse]
-[Gehaltsvorstellung]
-[Angaben zu Ausbildung]
-[Angaben zu beruflichen Stationen]
-[Lebenslauf]
-[Zeugnisse]
-[Foto]
+[Anrede]  
+[Name]  
+[Adresse]   
+[Telefonnummer]   
+[Mobilfunknummer]   
+[E-Mail-Adresse]  
+[Gehaltsvorstellung]  
+[Angaben zu Ausbildung]  
+[Angaben zu beruflichen Stationen]  
+[Lebenslauf]  
+[Zeugnisse]  
+[Foto]  
 …
 
 Pflichtangaben sind mit einem * gekennzeichnet.
