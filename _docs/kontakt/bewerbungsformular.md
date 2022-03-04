@@ -51,7 +51,7 @@ Ihre Daten werden nach [6 Monate nach Abschluss der Bearbeitung] gelöscht.
 #### Einwilligung
 Eine Einwilligung des Nutzers ist nicht erforderlich (Art. 6 Abs. 1 lit. b DSGVO).
 #### Löschfristen
-Die Unterlagen abgelehnter Bewerber, sollten spätestens sechs Monate nach Abschluss des Bewerbungsverfahren gelöscht werden. [25. Tätigkeitsbericht des Landesdatenschutzbeauftragten](https://www.datenschutz-bayern.de/tbs/tb25/k11.html#11.8.2)
+Die Unterlagen abgelehnter Bewerber, sollten spätestens sechs Monate nach Abschluss des Bewerbungsverfahren gelöscht werden. [(Vgl. 25. Tätigkeitsbericht des Landesdatenschutzbeauftragten)](https://www.datenschutz-bayern.de/tbs/tb25/k11.html#11.8.2)
 
 ### Technische Hinweise
 Bewerbungsformulare sollten grundsätzlich selbst gehostet und so eingerichtet sein, dass keine IP-Adressen der Nutzer erfasst werden. Außerdem sollten keine übermittelten Daten im CMS selbst gespeichert werden, insbesondere dann nicht, wenn die Nachricht ohnehin als E-Mail weitergeleitet wird. Die Übertragung der eingegebenen Daten muss transportverschlüsselt erfolgen, sonst können datenschutzrechtliche Konsequenzen drohen. Es sollte geprüft werden, ob Server, E-Mail-Provider, die Applikation oder das verwendete Plugin Logfiles anlegen oder ob Telemetriedaten an Drittanbieter gesendet werden, die personenbezogene Daten enthalten. Diese Informationen könnten sowohl im Rahmen der erhobenen Daten als auch für die Speicherdauer relevant sein. Entsprechende Funktionen sollten nach Möglichkeit deaktiviert werden.
