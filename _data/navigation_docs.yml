@@ -21,6 +21,7 @@
 
 - title: Fonts
   docs:
+    - fonts/font_awesome
     - fonts/google_fonts
 
 - title: Hosting
