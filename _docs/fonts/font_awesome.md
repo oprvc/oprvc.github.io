@@ -21,4 +21,4 @@ flag: us
 ### Allgemeine Hinweise 
 Die Ausführungen über [Google Fonts](https://opr.vc/docs/fonts/google_fonts/), lassen sich auf Font Awesome übertragen, da es sich ebenfalls um einen US-amerikanischen Anbieter handelt.
 
-Es wird daher empfohlen Font Awesome lokal einzubinden, sodass das entsprechende Inhalte nicht mehr von den Font Awesome Severn abgerufen werden. Eine entsprechende Anleitung findet sich unter: [https://fontawesome.com/docs/web/setup/host-yourself/webfonts](https://fontawesome.com/docs/web/setup/host-yourself/webfonts)
+Es wird daher empfohlen Font Awesome lokal einzubinden, sodass entsprechende Inhalte nicht mehr von den Font Awesome Severn abgerufen werden. Eine entsprechende Anleitung findet sich unter: [https://fontawesome.com/docs/web/setup/host-yourself/webfonts](https://fontawesome.com/docs/web/setup/host-yourself/webfonts)
