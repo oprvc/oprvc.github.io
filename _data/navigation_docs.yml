@@ -21,6 +21,7 @@
 
 - title: Fonts
   docs:
+    - fonts/adobe_fonts
     - fonts/font_awesome
     - fonts/google_fonts
 
