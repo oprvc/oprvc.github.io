@@ -3,14 +3,14 @@ title: Cookiebot
 subtitle: Informationen über Cookiebot
 description: Cookiebot - Kostenloses Muster für deine Datenschutzerklärung inkl. technischer und juristischer Hinweise.
 tags: [cookies]
-vendorname: Cybot A/S
+vendorname: Usercentrics A/S
 addressline1: Havnegade 39
 addressline2: 1058 Kopenhagen
 country: Dänemark
 ppurl: https://www.cookiebot.com/de/privacy-policy/
 dpaurl: 
 sccurl: 
-privacyemail: mail@cookiebot.com
+privacyemail: privacy@cookiebot.com
 flag: eu
 ---
 ### Inhaltsverzeichnis
@@ -20,7 +20,7 @@ flag: eu
 
 ### Mustertext Datenschutzerklärung
 **Cookiebot**  
-Wir nutzen der Zustimmungsverwaltungsdienst Cookiebot, der Cybot A/S, Havnegade 39, 1058 Kopenhagen, Dänemark (Cybot). Dies ermöglicht uns die Einwilligung der Websitenutzer zur Datenverarbeitung einzuholen und zu verwalten. Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich (Art. 7 Abs. 1DSGVO), der wir unterliegen (Art. 6 Abs. 1 S. 1 lit. c DSGVO). Dafür werden mit Hilfe von Cookies folgende Daten verarbeitet:
+Wir nutzen der Zustimmungsverwaltungsdienst Cookiebot, der Usercentrics A/S, Havnegade 39, 1058 Kopenhagen, Dänemark (Usercentrics). Dies ermöglicht uns die Einwilligung der Websitenutzer zur Datenverarbeitung einzuholen und zu verwalten. Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich (Art. 7 Abs. 1DSGVO), der wir unterliegen (Art. 6 Abs. 1 S. 1 lit. c DSGVO). Dafür werden mit Hilfe von Cookies folgende Daten verarbeitet:
 
 Ihre IP-Adresse (die letzten drei Ziffern werden auf ‚0’ gesetzt).
 Datum und Uhrzeit der Zustimmung.
@@ -35,10 +35,10 @@ Wenn Sie die Service-Funktion „Sammelzustimmung“ aktivieren, um die Zustimmu
 
 Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
 
-Cybot ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig.
+Usercentrics ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig.
 
-Die Verarbeitung findet in der Europäischen Union statt. Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Cybot finden Sie unter: https://www.cookiebot.com/de/privacy-policy/
+Die Verarbeitung findet in der Europäischen Union statt. Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Usercentrics finden Sie unter: https://www.cookiebot.com/de/privacy-policy/
 
-Ihre personenbezogenen Daten werden fortlaufend nach 12 Monaten oder unmittelbar nach der Kündigung des Vertrages zwischen uns und Cybot gelöscht.
+Ihre personenbezogenen Daten werden fortlaufend nach 12 Monaten oder unmittelbar nach der Kündigung des Vertrages zwischen uns und Usercentrics gelöscht.
 
 Bitte beachten Sie unsere generellen Ausführungen über die Löschung und Deaktivierung von Cookies oben.
