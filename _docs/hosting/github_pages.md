@@ -26,7 +26,7 @@ IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), D
 
 Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
 
-Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, sondern erhalten lediglich eine anonymisierte,  statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
+Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff.
 
 Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
