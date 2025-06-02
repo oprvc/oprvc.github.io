@@ -11,7 +11,7 @@ tags: [contact]
 
 ### Mustertext Datenschutzerklärung
 **Bewerbungsformular und Bewerbung per E-Mail**  
-Wir stellen Ihnen ein Bewerbungsformular zur Verfügung, dass Sie für Ihre elektronische Bewerbung nutzen können. Mit dem Forumlar eheben wir folgende personenbezogene Daten:
+Wir stellen Ihnen ein Bewerbungsformular zur Verfügung, dass Sie für Ihre elektronische Bewerbung nutzen können. Mit dem Formular erheben wir folgende personenbezogene Daten:
 
 [Anrede]  
 [Name]  
